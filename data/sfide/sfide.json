@@ -73,6 +73,14 @@
   },
   {
     "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Sopra la panca la riserva manca. Gioca tutto il campionato con una rosa di soli 16 giocatori.",
+      "en": "Preserve the reserve. Play the whole season with a squad of only 16 players."
+    }
+  },
+  {
+    "categoria": "rosa",
     "difficolta": "media",
     "testo": {
       "it": "Crea una squadra composta da giocatori con entrambi i piedi almeno abbastanza forti",
@@ -597,6 +605,14 @@
     "testo": {
       "it": "Imposta il ritmo di gioco il più veloce possibile",
       "en": "Set the game pace as fast as possible"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Full metal pacchia. Imposta gli allenamenti utilizzando per ogni giorno solo una sessione su tre",
+      "en": "Sleeper defender. Set the trainings using only one session every day"
     }
   },
   {
