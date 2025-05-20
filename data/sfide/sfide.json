@@ -3,6 +3,134 @@
     "categoria": "rosa",
     "difficolta": "facile",
     "testo": {
+      "it": "Acquista ad ogni stagione almeno un giocatore over 33 con alta professionalità ed usalo come tutor",
+      "en": "Buy at least one over 33 player with high professionalism at each season and use him as a tutor"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Compra tre soli giocatori per sessione di mercato",
+      "en": "Buy only three players per transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista tre giocatori con modo di gestire la stampa Irascibile e tienili in squadra per tre stagioni",
+      "en": "Buy three players with an Irascible press management style and keep them in the squad for three seasons"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Porta almeno 3 tuoi ex giocatori come membri del tuo staff",
+      "en": "Bring at least 3 of your ex players as members of your staff"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista ad ogni sessione di mercato almeno un giocatore con la media voto superiore a 7",
+      "en": "Buy at least one player with an average rating above 7 at each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista ad ogni sessione di mercato almeno un giocatore con cinque stelle di potenziale",
+      "en": "Buy at least one player with five potential stars at each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Acquista un giocatore con la media voto sotto il 6,50 e fallo raggiungere a fine stagione la media voto 7",
+      "en": "Buy a player with an average rating below 6.50 and make him reach an average rating of 7 by the end of the season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Fai guadagnare ad almeno 3 giocatori 2 stelle valutazione (es. giocatore con due stelle -> 4 stelle)",
+      "en": "Make at least 3 players gain 2 rating stars (e.g. player with two stars -> 4 stars)"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori con entrambi i piedi almeno abbastanza forti",
+      "en": "Create a team composed of players with both feet at least strong enough"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista almeno un giocatore under 18 per ogni sessione di mercato",
+      "en": "Buy at least one under 18 player per each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista almeno un giocatore che ha militato nel club in passato ogni stagione",
+      "en": "Buy at least one player who has played for the club in the past every season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista un difensore con aggressività superiore a 16",
+      "en": "Buy a defender with aggression greater than 16"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Fai giocare il portiere di riserva almeno 10 partite non amichevoli",
+      "en": "Play the reserve goalkeeper at least 10 non-friendly matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Schiera un giocatore del vivaio per almeno 5 partite",
+      "en": "Field a youth player for at least 5 matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Schiera un giocatore del vivaio per almeno 10 partite",
+      "en": "Field a youth player for at least 10 matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Compra un solo giocatore per sessione di mercato",
+      "en": "Buy only one player per transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
       "it": "Compra solo under 23",
       "en": "Buy only under 23 players"
     }
@@ -289,10 +417,82 @@
   },
   {
     "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con difesa a 4 (es. 4-3-3, 4-2-4, 4-1-5, 4-5-1)",
+      "en": "Use formations with 4 central defenders (es. 4-3-3, 4-2-4, 4-1-5, 4-5-1)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con centrocampo a 3 (es. 4-3-3, 3-5-2, 4-5-1)",
+      "en": "Use formations with 3 midfielders (es. 4-3-3, 3-5-2, 4-5-1)"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con centrocampista offensivo e due attaccanti",
+      "en": "Use formations with offensive midfielder and two strikers"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con due centrocampisti offensivi e due attaccanti",
+      "en": "Use formations with two offensive midfielders and two strikers"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con due mezzala",
+      "en": "Use formations with two mezzala"
+    }
+  },  
+  {
+    "categoria": "tattica",
     "difficolta": "facile",
     "testo": {
       "it": "Obbligo modulo 4-3-3 fisso",
       "en": "Mandatory fixed 4-3-3 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 3-5-2 fisso",
+      "en": "Mandatory fixed 3-5-2 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 3-4-2-1 fisso",
+      "en": "Mandatory fixed 3-4-2-1 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-2-4 fisso",
+      "en": "Mandatory fixed 4-2-4 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Obbligo modulo con gegenpress",
+      "en": "Mandatory gegenpress formation"
     }
   },  
   {
