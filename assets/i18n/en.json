@@ -1,6 +1,6 @@
 {
   "title": "FM24 Challenge Creator",
-  "difficulty": "Select difficulty:",
+  "difficulty": "League difficulty:",
   "difficulties": {
     "very_easy": "Very Easy",
     "easy": "Easy",
