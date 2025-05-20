@@ -180,8 +180,8 @@
     "categoria": "tattica",
     "difficolta": "matta",
     "testo": {
-      "it": "Non utilizzare tattiche automatiche, usa solo istruzioni manuali per le tattica",
-      "en": "Don't use automatic tactics, use only manual instructions for tactics"
+      "it": "Non utilizzare le tattiche di squadra (sovrapponiti a sinistra o a destra, impostare ampiezza o stile dei passaggi, linea del pressing ). Utilizza solo istruzioni manuali per le tattica",
+      "en": "Don't use team tactics (overlap left or right, set the width or passing style, line of pressing). Use only manual instructions for tactics"
     }
   },
   {
