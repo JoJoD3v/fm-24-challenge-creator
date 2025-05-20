@@ -14,7 +14,8 @@
     "facile": "Easy",
     "media": "Medium",
     "difficile": "Hard",
-    "matta": "Crazy"
+    "matta": "Crazy",
+    "meme": "Meme"
   },
   "generate_button_label": "Say goodbye to your social life",
   "generate_button": "Generate Challenge",

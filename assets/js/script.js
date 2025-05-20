@@ -115,6 +115,10 @@ const challengeDifficultyExplanations = {
   matta: {
     it: "Ma allora vuoi farti davvero male.Qui dovrai fare scorta di bibite energetiche e fazzoletti per le lacrime che verserai.",
     en: "If you really want to make it hard for yourself. Here you will need to stock up on energy drinks and tissues for the tears you will shed."
+  },
+  meme: {
+    it: "Allora questa modalità non è fatta per essere giocata ma per riderci sopra. Ma come disse il saggio:'Se pensi di non poterti fermare fallo, potresti anche non farlo ma se vuoi farlo allora fallo!'",
+    en: "So, this mode is not made to be played but to ride over it. But as the wise man said:'If you think you can't stop, you can also not do it but if you want to do it then do it!'",
   }
 };
 

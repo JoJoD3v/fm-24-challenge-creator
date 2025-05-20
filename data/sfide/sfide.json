@@ -9,6 +9,14 @@
   },
   {
     "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Mannaggia la miseriavic. Compra solo giocatori il cui cognome finisce con -vic (es. Krstovic, Kostic, etc.)",
+      "en": "Goddamnvic. Buy only players whose surname ends with -vic (es. Krstovic, Kostic, etc.)"
+    }
+  },
+  {
+    "categoria": "rosa",
     "difficolta": "facile",
     "testo": {
       "it": "Compra tre soli giocatori per sessione di mercato",
@@ -172,7 +180,7 @@
     "difficolta": "media",
     "testo": {
       "it": "Fidati del DS: puoi comprare solo i giocatori che ti propone",
-      "en": "Trust the Football Director: you can only buy the players he proposes"
+      "en": "Trust the Football Director. You can only buy the players he proposes"
     }
   },
   {
@@ -217,10 +225,10 @@
   },
   {
     "categoria": "rosa",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
-      "it": "Acquista solo giocatori mancini.",
-      "en": "Buy only left-footed players."
+      "it": "Ned Flanders mode. Acquista solo giocatori mancini.",
+      "en": "Ned Flanders mode. Buy only left-footed players."
     }
   },
   {
@@ -235,8 +243,8 @@
     "categoria": "rosa",
     "difficolta": "matta",
     "testo": {
-      "it": "Acquista solo giocatori più bassi di 170 cm.",
-      "en": "Buy only players shorter than 170 cm (5'7'' inches for UK)."
+      "it": "Frodo United. Acquista solo giocatori più bassi di 170 cm.",
+      "en": "Dwarf-back wingers. Buy only players shorter than 170 cm (5'7'' inches for UK)."
     }
   },
   {
@@ -265,26 +273,26 @@
   },
   {
     "categoria": "rosa",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
-      "it": "Crea una squadra composta da giocatori con aggressività superiore a 16",
-      "en": "Create a team composed of players with aggression greater than 16"
+      "it": "Hulk marca. Crea una squadra composta da giocatori con aggressività superiore a 16",
+      "en": "Gegen-Smash. Create a team composed of players with aggression greater than 16"
     }
   },
   {
     "categoria": "rosa",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
-      "it": "Crea una squadra composta da giocatori con determinazione inferiore a 10",
-      "en": "Create a team composed of players with determination less than 10"
+      "it": "Gegen-depresso. Crea una squadra composta da giocatori con determinazione inferiore a 10",
+      "en": "Gegen-depressing. Create a team composed of players with determination less than 10"
     }
   },
   {
     "categoria": "rosa",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
-      "it": "Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
-      "en": "Create a team composed of players with speed greater than 15 (Goalkeeper included)."
+      "it": "Speedy Nico Gonzales. Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
+      "en": "RUN AT BALL. Create a team composed of players with speed greater than 15 (Goalkeeper included)."
     }
   },
   {
@@ -305,10 +313,10 @@
   },
   {
     "categoria": "tattica",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
-      "it": "Utilizza una tattica con almeno 7 giocatori nella metà campo offensiva (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)",
-      "en": "Use a tactic with at least 7 players in the offensive half (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)"
+      "it": "I Magnifici 7. Utilizza una tattica con almeno 7 giocatori nella metà campo offensiva (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)",
+      "en": "Taste my seven. Use a tactic with at least 7 players in the offensive half (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)"
     }
   },  
   {
@@ -513,10 +521,18 @@
   },    
   {
     "categoria": "tattica",
-    "difficolta": "difficile",
+    "difficolta": "meme",
     "testo": {
-      "it": "Gioca senza attaccanti",
-      "en": "Play without strikers"
+      "it": "J.L.Chilavert style. Gioca con Portiere-libero attaccante ed assegnalo come tiratore di tutti i calci piazzati e rigori.",
+      "en": "J.L.Chilavert style. Play with a goalkeeper-free attacking and assign him as the taker for all free kicks, corners and penalties."
+    }
+  }, 
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Art senza Attack. Gioca senza attaccanti",
+      "en": "Not-so-advanced Forward. Play without strikers"
     }
   }, 
   {
@@ -557,6 +573,22 @@
     "testo": {
       "it": "Imposta il ritmo di gioco il più lento possibile",
       "en": "Set the game pace as slow as possible"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "L'incubo di Guardiola. Imposta ampiezza di attacco, passaggi diretti e ritmo di gioco tutto al massimo",
+      "en": "Guardiola's nightmare. Set attack width, direct passing and game pace to the maximum"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "I come Iradeddio. La tua formazione deve avere la forma di una lettera: X, Z, T, C, L . Insomma fai te mica devo insegnarti l'alfabeto!",
+      "en": "The Alphabet tactic. Your formation must have the shape of a letter: X, Z, T, C, L. In other words, don't teach me the alphabet!"
     }
   },
   {
@@ -649,10 +681,10 @@
   },  
   {
     "categoria": "obiettivi",
-    "difficolta": "difficile",
+    "difficolta": "meme",
     "testo": {
-      "it": "Espandi il tuo stadio fino ad arrivare a 200.000 spettatori.",
-      "en": "Expand your stadium to 200.000 spectators."
+      "it": "Camp Enormou. Espandi il tuo stadio fino ad arrivare a 200.000 spettatori.",
+      "en": "Bernabeu the Giant. Expand your stadium to 200.000 spectators."
     }
   },  
   {
@@ -669,6 +701,14 @@
     "testo": {
       "it": "Vinci una coppa continentale",
       "en": "Win a continental cup"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Guarda mamma come Walter Zenga. Fai te per gli obiettivi ma litiga con tutti i giornalisti, partecipa ad ogni conferenza stampa e rispondi male a qualunque domanda. +1 punto per ogni collega insultato pesante.",
+      "en": "Gegen-press. Do your best for the objectives but quarrel with all journalists, attend every press conference and answer badly any question. +1 point for each heavy insulted colleague."
     }
   },  
   {
@@ -741,6 +781,14 @@
     "testo": {
       "it": "Vinci il tripete entro 10 stagioni",
       "en": "Win the treble within 10 seasons"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Fallo poco involontario. Vinci il campionato con il più alto numero di ammonizioni ed espulsioni della lega",
+      "en": "I play violence. Win the league with the highest number of yellow cards and red cards in the league"
     }
   }, 
   {
