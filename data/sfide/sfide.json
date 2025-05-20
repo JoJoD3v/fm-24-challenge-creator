@@ -44,7 +44,7 @@
     "difficolta": "media",
     "testo": {
       "it": "Fidati del DS: puoi comprare solo i giocatori che ti propone",
-      "en": "Trust the DS: you can only buy the players he proposes"
+      "en": "Trust the Football Director: you can only buy the players he proposes"
     }
   },
   {
@@ -107,6 +107,14 @@
     "categoria": "rosa",
     "difficolta": "matta",
     "testo": {
+      "it": "Acquista solo giocatori più bassi di 170 cm.",
+      "en": "Buy only players shorter than 170 cm (5'7'' inches for UK)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
       "it": "Crea una squadra solo con giocatori di personalità Risoluto.",
       "en": "Create a team only with players with a Resolute personality."
     }
@@ -125,6 +133,30 @@
     "testo": {
       "it": "Usa solo giocatori cresciuti nel vivaio",
       "en": "Use only homegrown players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori con aggressività superiore a 16",
+      "en": "Create a team composed of players with aggression greater than 16"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori il cui cognome inizia con la prima lettera della tua squadra (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) ogni giocatore deve avere un cognome diverso",
+      "en": "Create a team composed of players whose surname starts with the first letter of your team (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) each player must have a different surname"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori di origine africana (vale anche la seconda nazionalità)",
+      "en": "Create a team composed of players of African origin (also the second nationality)"
     }
   },
   {
@@ -259,8 +291,40 @@
     "categoria": "tattica",
     "difficolta": "media",
     "testo": {
+      "it": "Usa una tattica basata sul possesso palla. Chiudi la stagione con la media del 55% di possesso palla.",
+      "en": "Use a possession-based tactic. End the season with a possession average of 55%."
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
       "it": "Usa solo tattiche offensive",
       "en": "Use only offensive tactics"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta al massimo lo stile dei passaggi diretto",
+      "en": "Set the direct passing style to the maximum"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta il ritmo di gioco il più lento possibile",
+      "en": "Set the game pace as slow as possible"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta il ritmo di gioco il più veloce possibile",
+      "en": "Set the game pace as fast as possible"
     }
   },
   {
@@ -283,8 +347,16 @@
     "categoria": "obiettivi",
     "difficolta": "facile",
     "testo": {
-      "it": "Raggiungi almeno i quarti in una coppa",
-      "en": "Reach at least the quarter-finals in a cup"
+      "it": "Vinci lo scudetto in 3 stagioni",
+      "en": "Win the championship in 3 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Vinci tre scudetti consecutivi",
+      "en": "Win three consecutive championships"
     }
   },
   {
@@ -303,6 +375,14 @@
       "en": "Bring the balance to at least 100 million"
     }
   },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Porta il bilancio almeno a 1000 milioni",
+      "en": "Bring the balance to at least 1000 million"
+    }
+  }, 
   {
     "categoria": "obiettivi",
     "difficolta": "media",
@@ -335,6 +415,14 @@
       "en": "Finish the season with at least 100 goals scored"
     }
   },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fai vincere il pallone d'oro a un tuo giocatore",
+      "en": "Make your player win the Ballon d'Or"
+    }
+  }, 
   {
     "categoria": "obiettivi",
     "difficolta": "difficile",
