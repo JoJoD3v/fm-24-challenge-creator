@@ -23,6 +23,11 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
+    // Imposta il consenso predefinito come "denied" fino alla scelta dell'utente
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied'
+    });
+    
     gtag('config', 'G-9MSMDWM9CR');
   </script>
 </head>
@@ -82,7 +87,19 @@
      </div>
     </div>
 
+    <!-- Div esplicativo per le difficoltà -->
+    <div class="difficulty-explanation">
+      <div id="difficulty-explanation-box" class="explanation-box"></div>
+    </div>
+
     <div id="output"></div>
+
+    <div id="share-container" class="share-container" style="display: none;">
+      <button id="share-button" class="share-button">
+        <span class="button-icon">🖼️</span>
+        <span class="button-text" data-i18n="share_button">Condividi</span>
+      </button>
+    </div>
 
     <footer>
       <p><span data-i18n="footer-text">Ispirato a Football Manager 2024 | Sviluppato con amore e rabbia da </span> <a href="https://github.com/jojod3v" target="_blank">Giovanni Castaldo</a></p>
@@ -91,6 +108,21 @@
 
   <script src="./assets/js/env.js"></script>
   <script src="./assets/js/i18n.js"></script>
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
   <script src="./assets/js/script.js"></script>
+  
+  <!-- Cookie Banner -->
+  <div id="cookie-banner" class="cookie-banner">
+    <div class="cookie-content">
+      <div class="cookie-text">
+        <h4 data-i18n="cookie_banner.title">Informativa sui Cookie</h4>
+        <p data-i18n="cookie_banner.description">Questo sito utilizza cookie per migliorare l'esperienza di navigazione e raccogliere informazioni sull'utilizzo del sito. Utilizziamo Google Analytics per analizzare il traffico. Puoi accettare tutti i cookie o personalizzare le tue preferenze.</p>
+      </div>
+      <div class="cookie-buttons">
+        <button id="cookie-reject" class="cookie-btn reject-btn" data-i18n="cookie_banner.reject">Rifiuta</button>
+        <button id="cookie-accept" class="cookie-btn accept-btn" data-i18n="cookie_banner.accept">Accetta</button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>

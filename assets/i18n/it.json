@@ -20,6 +20,7 @@
   "generate_button": "Genera Sfida",
   "loading": "Generazione sfida in corso...",
   "feedback_button": "Invia Feedback",
+  "share_button": "Condividi",
   "challenges": {
     "title": "Le tue sfide:",
     "categories": {
@@ -27,6 +28,12 @@
       "tattica": "Tattica",
       "obiettivi": "Obiettivi"
     }
+  },
+  "cookie_banner": {
+    "title": "Informativa sui Cookie",
+    "description": "Questo sito utilizza cookie per migliorare l'esperienza di navigazione e raccogliere informazioni sull'utilizzo del sito. Utilizziamo Google Analytics per analizzare il traffico. Puoi accettare tutti i cookie o personalizzare le tue preferenze.",
+    "accept": "Accetta",
+    "reject": "Rifiuta"
   },
   "footer-text": "Ispirato a Football Manager 2024 | Sviluppato con amore e rabbia da",
   "errors": {

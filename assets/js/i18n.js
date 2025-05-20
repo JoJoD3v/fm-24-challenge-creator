@@ -4,6 +4,7 @@ class I18n {
     this.translations = {};
     this.currentLang = localStorage.getItem('language') || 'it'; // Default: italiano
     this.supportedLangs = ['it', 'en'];
+    this.onLanguageChanged = null; // Callback per quando la lingua cambia
   }
 
   // Carica le traduzioni per una lingua
@@ -40,6 +41,14 @@ class I18n {
     // Aggiorna il selettore lingua
     const langSelector = document.getElementById('language-selector');
     if (langSelector) langSelector.value = lang;
+    
+    // Notifica del cambio lingua tramite evento
+    window.dispatchEvent(new CustomEvent('language-changed', { detail: { lang } }));
+    
+    // Esegui il callback se definito
+    if (typeof this.onLanguageChanged === 'function') {
+      this.onLanguageChanged(lang);
+    }
     
     return true;
   }
@@ -101,4 +110,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   
   // Aggiorna le traduzioni nella pagina
   window.i18n.updatePageTranslations();
+  
+  // Notifica che le traduzioni sono state caricate
+  window.dispatchEvent(new CustomEvent('i18n-loaded'));
 }); 

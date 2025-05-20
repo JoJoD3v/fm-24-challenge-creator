@@ -1,5 +1,151 @@
 // /assets/js/script.js
 
+// Funzione per il tracciamento degli eventi con Google Analytics
+function trackEvent(category, action, label) {
+  if (typeof gtag === 'function') {
+    const cookieConsent = localStorage.getItem('cookie-consent');
+    // Traccia solo se l'utente ha accettato i cookie o non ha ancora scelto
+    if (cookieConsent === 'accepted') {
+      gtag('event', action, {
+        'event_category': category,
+        'event_label': label
+      });
+    }
+  }
+}
+
+// Gestione del banner dei cookie
+function initCookieBanner() {
+  const cookieBanner = document.getElementById('cookie-banner');
+  const acceptBtn = document.getElementById('cookie-accept');
+  const rejectBtn = document.getElementById('cookie-reject');
+  
+  // Controlla se l'utente ha già fatto una scelta
+  const cookieConsent = localStorage.getItem('cookie-consent');
+  
+  // Se non c'è stata ancora una scelta, mostra il banner
+  if (cookieConsent === null) {
+    cookieBanner.style.display = 'block';
+  }
+  
+  // Gestione del click sul pulsante Accetta
+  acceptBtn.addEventListener('click', function() {
+    localStorage.setItem('cookie-consent', 'accepted');
+    cookieBanner.style.display = 'none';
+    enableGoogleAnalytics();
+  });
+  
+  // Gestione del click sul pulsante Rifiuta
+  rejectBtn.addEventListener('click', function() {
+    localStorage.setItem('cookie-consent', 'rejected');
+    cookieBanner.style.display = 'none';
+    disableGoogleAnalytics();
+  });
+  
+  // Controlla lo stato e applica le impostazioni appropriate
+  if (cookieConsent === 'accepted') {
+    enableGoogleAnalytics();
+  } else if (cookieConsent === 'rejected') {
+    disableGoogleAnalytics();
+  }
+}
+
+// Abilita Google Analytics
+function enableGoogleAnalytics() {
+  // Reinizializza Google Analytics
+  if (typeof gtag === 'function') {
+    gtag('consent', 'update', {
+      'analytics_storage': 'granted'
+    });
+  }
+}
+
+// Disabilita Google Analytics
+function disableGoogleAnalytics() {
+  // Disabilita il tracciamento
+  if (typeof gtag === 'function') {
+    gtag('consent', 'update', {
+      'analytics_storage': 'denied'
+    });
+  }
+}
+
+// Spiegazioni delle difficoltà in italiano e inglese
+const difficultyExplanations = {
+  very_easy: {
+    it: "Squadre di alto livello con rosa completa e già pronta. Ideale per chi vuole gestire top club senza grandi sfide finanziarie o di costruzione della squadra.",
+    en: "High level teams with a complete and ready squad. Ideal for those who want to manage top clubs without major financial or team building challenges."
+  },
+  easy: {
+    it: "Club con buone risorse e una squadra solida. Qualche sfida di gestione, ma con basi stabili e una buona reputazione.",
+    en: "Clubs with good resources and a solid team. Some management challenges, but with stable foundations and a good reputation."
+  },
+  medium: {
+    it: "Squadre di medio livello con un mix di sfide: budget limitato, necessità di rinforzi in alcuni ruoli, ma con potenziale di crescita.",
+    en: "Mid-level teams with a mix of challenges: limited budget, need for reinforcements in some positions, but with growth potential."
+  },
+  hard: {
+    it: "Club con risorse limitate e diverse problematiche da risolvere: rosa sbilanciata, finanze instabili, aspettative elevate rispetto alla realtà.",
+    en: "Clubs with limited resources and various problems to solve: unbalanced squad, unstable finances, expectations higher than reality."
+  },
+  very_hard: {
+    it: "Sfida estrema con club in difficoltà: problemi finanziari seri, rosa inadeguata, strutture carenti e pressioni esterne. Per veri maestri di FM.",
+    en: "Extreme challenge with clubs in difficulty: serious financial problems, inadequate squad, poor facilities and external pressures. For true FM masters."
+  }
+};
+
+// Spiegazioni delle difficoltà delle sfide
+const challengeDifficultyExplanations = {
+  all: {
+    it: "Include sfide di ogni livello di difficoltà, dalla più semplice alla più impegnativa.",
+    en: "Includes challenges of all difficulty levels, from the simplest to the most demanding."
+  },
+  facile: {
+    it: "Sfide semplici da completare, adatte ai principianti o per una partita rilassata.",
+    en: "Simple challenges to complete, suitable for beginners or for a relaxed game."
+  },
+  media: {
+    it: "Sfide di media difficoltà che richiedono una discreta conoscenza del gioco e alcune capacità tattiche.",
+    en: "Medium difficulty challenges that require a decent knowledge of the game and some tactical skills."
+  },
+  difficile: {
+    it: "Sfide impegnative che metteranno alla prova anche i manager esperti, richiedendo pianificazione e abilità avanzate.",
+    en: "Challenging tasks that will test even experienced managers, requiring planning and advanced skills."
+  },
+  matta: {
+    it: "Sfide estreme e inusuali che possono sembrare quasi impossibili. Solo per chi cerca una vera sfida fuori dal comune.",
+    en: "Extreme and unusual challenges that may seem almost impossible. Only for those looking for a real extraordinary challenge."
+  }
+};
+
+// Funzione per aggiornare la spiegazione della difficoltà
+function updateDifficultyExplanation() {
+  console.log("Aggiornamento spiegazione difficoltà");
+  
+  const selectedDifficulty = document.getElementById('difficulty').value;
+  const selectedChallengeDifficulty = document.getElementById('challenge-difficulty').value;
+  const currentLang = window.i18n ? window.i18n.currentLang : 'it';
+  
+  console.log("Difficoltà selezionate:", selectedDifficulty, selectedChallengeDifficulty, "Lingua:", currentLang);
+  
+  const difficultyText = difficultyExplanations[selectedDifficulty][currentLang];
+  const challengeDifficultyText = challengeDifficultyExplanations[selectedChallengeDifficulty][currentLang];
+  
+  const explanationBox = document.getElementById('difficulty-explanation-box');
+  console.log("Box spiegazione trovato:", !!explanationBox);
+  
+  if (explanationBox) {
+    explanationBox.innerHTML = `
+      <strong>${window.i18n ? window.i18n.t('difficulties.' + selectedDifficulty) : selectedDifficulty}:</strong> ${difficultyText}
+      <br><br>
+      <strong>${window.i18n ? window.i18n.t('challenge_difficulties.' + selectedChallengeDifficulty) : selectedChallengeDifficulty}:</strong> ${challengeDifficultyText}
+    `;
+    console.log("Contenuto aggiornato:", explanationBox.innerHTML);
+  } else {
+    console.error("Elemento difficulty-explanation-box non trovato!");
+  }
+}
+
 // Funzione per garantire che le variabili d'ambiente siano caricate
 function ensureEnvLoaded() {
   return new Promise((resolve) => {
@@ -60,6 +206,68 @@ function selectRandomSfida(sfide) {
   return sfide[Math.floor(Math.random() * sfide.length)];
 }
 
+// Funzione per generare e condividere l'immagine della sfida
+async function condividiSfida() {
+  try {
+    // Traccia l'evento di condivisione
+    trackEvent('Feature', 'Share', 'Share challenge as image');
+    
+    const outputElement = document.getElementById('output');
+    if (!outputElement) {
+      console.error("Elemento output non trovato");
+      return;
+    }
+    
+    // Mostra un messaggio di caricamento
+    const shareButton = document.getElementById('share-button');
+    const originalText = shareButton.innerHTML;
+    shareButton.innerHTML = `<span class="button-icon">⏳</span><span class="button-text">${window.i18n.t('loading') || 'Creazione immagine...'}</span>`;
+    shareButton.disabled = true;
+    
+    // Genera l'immagine
+    const canvas = await html2canvas(outputElement, {
+      backgroundColor: '#283545',
+      scale: 2, // Aumenta la qualità
+      logging: false,
+      useCORS: true // Per immagini esterne come i loghi
+    });
+    
+    // Aggiungiamo un watermark
+    const ctx = canvas.getContext('2d');
+    ctx.font = '14px Roboto';
+    ctx.fillStyle = '#7a8999';
+    ctx.textAlign = 'right';
+    const watermarkText = 'FM24 Challenge Creator';
+    ctx.fillText(watermarkText, canvas.width - 15, canvas.height - 15);
+    
+    // Converte in URL dati
+    const dataUrl = canvas.toDataURL('image/png');
+    
+    // Crea un link per il download
+    const link = document.createElement('a');
+    link.href = dataUrl;
+    link.download = 'fm24-challenge.png';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    
+    // Ripristina lo stato del pulsante
+    shareButton.innerHTML = originalText;
+    shareButton.disabled = false;
+    
+  } catch (error) {
+    console.error('Errore durante la generazione dell\'immagine:', error);
+    alert(`Errore durante la generazione dell'immagine: ${error.message}`);
+    
+    // Ripristina il pulsante in caso di errore
+    const shareButton = document.getElementById('share-button');
+    if (shareButton) {
+      shareButton.innerHTML = `<span class="button-icon">🖼️</span><span class="button-text">${window.i18n.t('share_button') || 'Condividi'}</span>`;
+      shareButton.disabled = false;
+    }
+  }
+}
+
 async function generaSfida() {
   // Assicuriamoci che le variabili d'ambiente e le traduzioni siano caricate
   await Promise.all([ensureEnvLoaded(), ensureI18nLoaded()]);
@@ -68,6 +276,12 @@ async function generaSfida() {
   const difficoltaSfide = document.getElementById('challenge-difficulty').value;
   const squadrePath = `./data/squadre/squadre_${livello}.json`;
   const sfidePath = `./data/sfide/sfide.json`;
+
+  // Traccia l'evento di generazione sfida
+  trackEvent('Challenge', 'Generate', `Difficulty: ${livello}, Challenge Difficulty: ${difficoltaSfide}`);
+
+  // Nasconde il pulsante di condivisione durante la generazione
+  document.getElementById('share-container').style.display = 'none';
 
   // Mostra un indicatore di caricamento
   document.getElementById('output').innerHTML = `
@@ -114,12 +328,14 @@ async function generaSfida() {
     const sfidaObiettivo = selectRandomSfida(sfideObiettivi);
 
     // Array con le tre sfide selezionate
-    const sfideSelezionate = [sfidaRosa, sfidaTattica, sfidaObiettivo];    document.getElementById('output').innerHTML = `
+    const sfideSelezionate = [sfidaRosa, sfidaTattica, sfidaObiettivo];
+    
+    document.getElementById('output').innerHTML = `
       <div class="team-info">
         <h2>${squadra.team}</h2>
         <p>${squadra.league} <span class="country">(${squadra.country})</span></p>
         <div class="logo-container">
-          <img src="${logoUrl}" alt="Logo ${squadra.team}" class="team-logo" />
+          <img src="${logoUrl}" alt="Logo ${squadra.team}" class="team-logo" crossorigin="anonymous" />
         </div>
       </div>
 
@@ -132,6 +348,10 @@ async function generaSfida() {
         </ul>
       </div>
     `;
+    
+    // Mostra il pulsante di condivisione
+    document.getElementById('share-container').style.display = 'flex';
+    
   } catch (error) {
     console.error('Errore durante il caricamento dei dati:', error);
     document.getElementById('output').innerHTML = `
@@ -142,3 +362,69 @@ async function generaSfida() {
     `;
   }
 }
+
+// Inizializzazione del tracciamento degli eventi e delle spiegazioni
+document.addEventListener('DOMContentLoaded', function() {
+  console.log("DOM caricato, inizializzazione eventi");
+  
+  // Inizializza il banner dei cookie
+  initCookieBanner();
+  
+  // Garantiamo che la spiegazione venga aggiornata al caricamento
+  const initExplanation = function() {
+    try {
+      console.log("Inizializzazione spiegazione");
+      updateDifficultyExplanation();
+    } catch (err) {
+      console.error("Errore nell'inizializzazione della spiegazione:", err);
+    }
+  };
+  
+  // Chiamiamo subito e anche con un leggero ritardo per sicurezza
+  initExplanation();
+  setTimeout(initExplanation, 500);
+  
+  // Tracciamento delle select
+  document.getElementById('difficulty').addEventListener('change', function() {
+    console.log("Cambio difficoltà:", this.value);
+    trackEvent('Selection', 'Change Difficulty', this.value);
+    updateDifficultyExplanation();
+  });
+
+  document.getElementById('challenge-difficulty').addEventListener('change', function() {
+    console.log("Cambio difficoltà sfida:", this.value);
+    trackEvent('Selection', 'Change Challenge Difficulty', this.value);
+    updateDifficultyExplanation();
+  });
+
+  // Tracciamento dei clic sui link
+  document.querySelector('.coffee-button').addEventListener('click', function() {
+    trackEvent('Click', 'Buy Coffee', 'Buy me a coffee button clicked');
+  });
+
+  document.querySelector('.feedback-button').addEventListener('click', function() {
+    trackEvent('Click', 'Feedback', 'Feedback button clicked');
+  });
+  
+  // Inizializzazione del pulsante di condivisione
+  document.getElementById('share-button').addEventListener('click', condividiSfida);
+  
+  // Gestione delle traduzioni
+  if (window.i18n) {
+    console.log("i18n trovato, configurazione evento di cambio lingua");
+    // Aggiorna la spiegazione quando cambia la lingua
+    window.i18n.onLanguageChanged = function(newLang) {
+      console.log("Lingua cambiata:", newLang);
+      updateDifficultyExplanation();
+    };
+    
+    // Se l'evento i18n-loaded non è ancora stato emesso, attendiamolo
+    if (!window.i18n.translations || !window.i18n.translations[window.i18n.currentLang]) {
+      console.log("In attesa del caricamento delle traduzioni");
+      window.addEventListener('i18n-loaded', function() {
+        console.log("Evento i18n-loaded ricevuto");
+        updateDifficultyExplanation();
+      });
+    }
+  }
+});

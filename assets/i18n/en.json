@@ -20,6 +20,7 @@
   "generate_button": "Generate Challenge",
   "loading": "Generating challenge...",
   "feedback_button": "Send Feedback",
+  "share_button": "Share",
   "challenges": {
     "title": "Your challenges:",
     "categories": {
@@ -27,6 +28,12 @@
       "tattica": "Tactics",
       "obiettivi": "Objectives"
     }
+  },
+  "cookie_banner": {
+    "title": "Cookie Policy",
+    "description": "This website uses cookies to improve your browsing experience and collect information about site usage. We use Google Analytics to analyze traffic. You can accept all cookies or customize your preferences.",
+    "accept": "Accept",
+    "reject": "Reject"
   },
   "footer-text": "Inspired by Football Manager 2024 | Developed with love and anger by",
   "errors": {
