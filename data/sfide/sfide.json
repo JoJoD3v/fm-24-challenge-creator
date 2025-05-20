@@ -87,7 +87,30 @@
       "en": "Only players from your country"
     }
   },
-
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Acquista solo giocatori mancini.",
+      "en": "Buy only left-footed players."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Acquista solo giocatori più alti di 185 cm.",
+      "en": "Buy only players taller than 185 cm.(6'1'' inches for UK)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra solo con giocatori di personalità Risoluto.",
+      "en": "Create a team only with players with a Resolute personality."
+    }
+  },
   {
     "categoria": "rosa",
     "difficolta": "difficile",
@@ -228,8 +251,8 @@
     "categoria": "tattica",
     "difficolta": "facile",
     "testo": {
-      "it": "Gioca sempre con almeno 3 difensori",
-      "en": "Always play with at least 3 defenders"
+      "it": "Utilizza una formazione con la difesa a 3 (es. 3-5-2, 3-4-3)",
+      "en": "Use a formation with 3 central defenders (for example 3-5-2, 3-4-3)"
     }
   },
   {
