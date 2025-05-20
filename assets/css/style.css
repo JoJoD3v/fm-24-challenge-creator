@@ -1,0 +1,357 @@
+/* FM24 Challenge Creator - Stile ispirato a Football Manager 2024 */
+
+/* Importa un font simile a quello utilizzato da FM24 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Stili generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: #1c2630;
+  color: #e6e6e6;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Topbar */
+.topbar {
+  background-color: #141c24;
+  padding: 15px 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+
+.topbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar-title h1 {
+  color: #e6e6e6;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Pulsanti topbar */
+.topbar-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #283545;
+  color: #e6e6e6;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 3px;
+  font-size: 14px;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.topbar-button:hover {
+  background-color: #364758;
+  transform: translateY(-2px);
+}
+
+.topbar-button:active {
+  transform: translateY(0);
+}
+
+.button-icon {
+  margin-right: 8px;
+  font-size: 16px;
+}
+
+.button-text {
+  font-weight: 500;
+}
+
+.coffee-button {
+  background-color: #5da9e6;
+  color: #1c2630;
+}
+
+.coffee-button:hover {
+  background-color: #4a98d5;
+}
+
+/* Language selector */
+.language-selector {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  background-color: #283545;
+  border-radius: 4px;
+}
+
+.language-selector label {
+  margin-right: 10px;
+  font-size: 14px;
+  color: #b8c7dc;
+}
+
+#language-selector {
+  min-width: 90px;
+}
+
+/* Contenuto principale */
+.main-content {
+  padding-top: 20px;
+}
+
+/* Controlli */
+.controls {
+  background-color: #283545;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+select {
+  background-color: #1c2630;
+  color: #e6e6e6;
+  border: 1px solid #4c6280;
+  padding: 8px 12px;
+  border-radius: 3px;
+  font-size: 14px;
+  min-width: 150px;
+  cursor: pointer;
+}
+
+button {
+  background-color: #5da9e6;
+  color: #1c2630;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #4a98d5;
+}
+
+button:active {
+  background-color: #3987c4;
+}
+
+/* Output */
+#output {
+  background-color: #283545;
+  padding: 25px;
+  border-radius: 4px;
+  min-height: 200px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Team info section */
+.team-info {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #364758;
+}
+
+#output h2 {
+  font-size: 24px;
+  color: #5da9e6;
+  margin-bottom: 8px;
+}
+
+#output p {
+  font-size: 14px;
+  margin-bottom: 15px;
+  color: #b8c7dc;
+}
+
+.country {
+  opacity: 0.7;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px auto;
+  width: 140px;
+  height: 140px;
+  background-color: #1c2630;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.team-logo {
+  max-height: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+#output h3 {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #5da9e6;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #364758;
+  text-align: center;
+}
+
+.challenge-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#output ul {
+  list-style-type: none;
+  margin-top: 15px;
+  width: 100%;
+}
+
+#output li {
+  background-color: #1c2630;
+  margin-bottom: 16px;
+  padding: 15px;
+  border-radius: 4px;
+  font-size: 14px;
+  border-left: 4px solid #5da9e6;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  width: 100%;
+}
+
+#output li:hover {
+  background-color: #203040;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#output li.rosa {
+  border-left-color: #e65d5d;
+}
+
+#output li.tattica {
+  border-left-color: #5de6a9;
+}
+
+#output li.obiettivi {
+  border-left-color: #e6c45d;
+}
+
+#output li .category {
+  color: #5da9e6;
+  font-weight: 600;
+  display: inline-block;
+  width: 80px;
+}
+
+#output li.rosa .category {
+  color: #e65d5d;
+}
+
+#output li.tattica .category {
+  color: #5de6a9;
+}
+
+#output li.obiettivi .category {
+  color: #e6c45d;
+}
+
+/* Messaggio di errore */
+.error {
+  color: #ff6b6b;
+  background-color: rgba(255, 107, 107, 0.1);
+  padding: 10px;
+  border-radius: 3px;
+  border-left: 3px solid #ff6b6b;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 15px;
+  font-size: 12px;
+  color: #7a8999;
+  border-top: 1px solid #364758;
+}
+
+footer a {
+  color: #5da9e6;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+/* Loading animation */
+.loading {
+  text-align: center;
+  padding: 30px;
+  color: #5da9e6;
+  font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .topbar-container {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .topbar-actions {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  select, button {
+    width: 100%;
+  }
+  
+  .team-logo {
+    height: 80px;
+  }
+}

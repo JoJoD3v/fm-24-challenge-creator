@@ -1,0 +1,339 @@
+[
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Compra solo under 23",
+      "en": "Buy only under 23 players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Compra solo over 30",
+      "en": "Buy only over 30 years old players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Reparto rianimazione: compra solo giocatori infortunati",
+      "en": "Rehabilitation department: buy only injured players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Nessun acquisto nel mercato estivo. Puoi comprare solo in gennaio (o comunque mercato di riparazione)",
+      "en": "No summer transfer. You can only buy in January (or any other repair market)"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Non comprare giocatori, solo svincolati , prestiti o in scadenza di contratto",
+      "en": "Don't buy players, only free agents, loans or players with contract expiring"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Fidati del DS: puoi comprare solo i giocatori che ti propone",
+      "en": "Trust the DS: you can only buy the players he proposes"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Niente Scouting: compra solo giocatori in base al tuo intuito.",
+      "en": "No Scouting: buy only players based on your intuition."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non puoi comprare due giocatori della stessa nazione. Se ne compri uno, devi vendere l'altro.",
+      "en": "You can't buy two players from the same country. If you buy one, you must sell the other."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Compri solo giocatori da squadre retrocesse.",
+      "en": "Buy only players from relegated teams."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Solo prestiti nessun acquisto",
+      "en": "Only loans, no purchases"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Solo giocatori della tua nazione",
+      "en": "Only players from your country"
+    }
+  },
+
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Non puoi acquistare nessuno nella prima stagione",
+      "en": "You can't buy any players in the first season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Usa solo giocatori cresciuti nel vivaio",
+      "en": "Use only homegrown players"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-4-2 fisso",
+      "en": "Mandatory fixed 4-4-2 formation"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Nessun ruolo playmaker (regista, centrocampista offensivo, trequartista)",
+      "en": "No playmaker role (regista, offensive midfielder, trequartista)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Parcheggia l'autobus. Usa il 5-4-1 con mentalità Difensiva per tutta la stagione. Niente pressing. Solo noia.",
+      "en": "Park the bus. Use the 5-4-1 formation with defensive mentality for the whole season. No pressing. Only boredom."
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Tattica perfettamente simmetrica (terzino attacco a sinistra e destra, mezzala a sinistra e destra, centrocampista a sinistra e destra)",
+      "en": "Perfectly symmetrical tactic (left and right attacking wing, left and right attacking midfielder, left and right defensive midfielder)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Modifica il modulo ogni inizio mese",
+      "en": "Change the formation every month"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Gioca solo con mentalità equilibrata o inferiore (difensive o molto difensive)",
+      "en": "Play only with balanced or defensive mentality (defensive or very defensive)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Gioca solo con mentalità positiva o superiore (offensiva o molto offensiva)",
+      "en": "Play only with positive or offensive mentality (offensive or very offensive)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Gioca sempre con due attaccanti",
+      "en": "Always play with two strikers"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Usa solo moduli asimmetrici",
+      "en": "Use only asymmetric formations"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non utilizzare tattiche automatiche, usa solo istruzioni manuali per le tattica",
+      "en": "Don't use automatic tactics, use only manual instructions for tactics"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Nessun giocatore può usare il suo ruolo naturale",
+      "en": "No player can use his natural role"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-3-3 fisso",
+      "en": "Mandatory fixed 4-3-3 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fissa modalità super offensiva",
+      "en": "Mandatory fixed super offensive mode"
+    }
+  },    
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fissa modalità super difensiva",
+      "en": "Mandatory fixed super defensive mode"
+    }
+  },    
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Gioca senza attaccanti",
+      "en": "Play without strikers"
+    }
+  }, 
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Gioca sempre con almeno 3 difensori",
+      "en": "Always play with at least 3 defenders"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Usa solo tattiche offensive",
+      "en": "Use only offensive tactics"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Non cambiare mai modulo durante la partita",
+      "en": "Never change formation during a match"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Vinci il campionato in 5 stagioni",
+      "en": "Win the league in 5 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Raggiungi almeno i quarti in una coppa",
+      "en": "Reach at least the quarter-finals in a cup"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Vendi un giocatore per almeno 50 milioni",
+      "en": "Sell a player for at least 50 million"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Porta il bilancio almeno a 100 milioni",
+      "en": "Bring the balance to at least 100 million"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Promuovi almeno 3 giocatori dal vivaio alla prima squadra",
+      "en": "Promote at least 3 players from youth academy to first team"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Vinci una coppa continentale",
+      "en": "Win a continental cup"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fai almeno 15 clean sheets in una stagione",
+      "en": "Make at least 15 clean sheets in a season"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Concludi la stagione con almeno 100 gol segnati",
+      "en": "Finish the season with at least 100 goals scored"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Concludi la stagione con la migliore difesa",
+      "en": "Finish the season with the best defense"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Vinci il tripete entro 10 stagioni",
+      "en": "Win the treble within 10 seasons"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea il miglior vivaio del mondo",
+      "en": "Create the best youth academy in the world"
+    }
+  }
+]

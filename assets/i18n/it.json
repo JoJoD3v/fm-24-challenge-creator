@@ -1,0 +1,38 @@
+{
+  "title": "FM24 Challenge Creator",
+  "difficulty": "Seleziona la difficoltà:",
+  "difficulties": {
+    "very_easy": "Molto Facile",
+    "easy": "Facile",
+    "medium": "Media",
+    "hard": "Difficile",
+    "very_hard": "Molto Difficile"
+  },
+  "challenge_difficulty": "Difficoltà sfide:",
+  "challenge_difficulties": {
+    "all": "Tutte",
+    "facile": "Facile",
+    "media": "Media",
+    "difficile": "Difficile",
+    "matta": "Matta"
+  },
+  "generate_button_label": "Saluta la tua vita sociale",
+  "generate_button": "Genera Sfida",
+  "loading": "Generazione sfida in corso...",
+  "feedback_button": "Invia Feedback",
+  "challenges": {
+    "title": "Le tue sfide:",
+    "categories": {
+      "rosa": "Rosa",
+      "tattica": "Tattica",
+      "obiettivi": "Obiettivi"
+    }
+  },
+  "footer-text": "Ispirato a Football Manager 2024 | Sviluppato con amore e rabbia da",
+  "errors": {
+    "loading": "Errore nel caricamento dei dati",
+    "check_paths": "Controlla che i percorsi dei file JSON siano corretti.",
+    "not_enough_challenges": "Non ci sono abbastanza sfide per il livello di difficoltà selezionato. Prova a selezionare \"Tutte\"."
+  },
+  "language": "Lingua"
+} 

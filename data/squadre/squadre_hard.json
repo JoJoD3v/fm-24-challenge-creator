@@ -1,0 +1,2098 @@
+[
+  {
+    "team": "Western Sydney Wanderers",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/939.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Perth Glory",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/940.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Central Coast Mariners",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/941.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Wellington Phoenix",
+    "league": "A League Australia",
+    "country": "New-Zealand",
+    "logo": "https://media.api-sports.io/football/teams/942.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sydney",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/943.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Melbourne Victory",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/944.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Melbourne City",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/945.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Newcastle Jets",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/946.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Brisbane Roar",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/947.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Adelaide United",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/948.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Western United",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/7573.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Macarthur",
+    "league": "A League Australia",
+    "country": "Australia",
+    "logo": "https://media.api-sports.io/football/teams/15550.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Auckland",
+    "league": "A League Australia",
+    "country": "New Zealand",
+    "logo": "https://media.api-sports.io/football/teams/24608.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ludogorets",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/566.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Botev Plovdiv",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/634.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Levski Sofia",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/646.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Cherno More Varna",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/851.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "CSKA Sofia",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/853.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Slavia Sofia",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/854.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Septemvri Sofia",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/856.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Beroe",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/857.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lokomotiv Plovdiv",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/858.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Botev Vratsa",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/859.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lokomotiv Sofia",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1416.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "CSKA 1948",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1426.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Arda Kardzhali",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1430.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hebar 1918",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/4659.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Spartak Varna",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/4660.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Levski Krumovgrad",
+    "league": "First League Bulgaria",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/17306.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Shimizu S-pulse",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/283.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "V-varen Nagasaki",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/285.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Vegalta Sendai",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/286.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Oita Trinita",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/298.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tokushima Vortis",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/299.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "JEF United Chiba",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/301.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Mito Hollyhock",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/305.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Yokohama FC",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/307.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ventforet Kofu",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/308.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Renofa Yamaguchi",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/309.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Fagiano Okayama",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/310.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Montedio Yamagata",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/312.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Roasso Kumamoto",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/314.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tochigi SC",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/315.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ehime FC",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/318.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Thespakusatsu Gunma",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/756.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kagoshima United",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/2236.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Blaublitz Akita",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/4315.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Fujieda MYFC",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/4317.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Iwaki",
+    "league": "Japan J1 League",
+    "country": "Japan",
+    "logo": "https://media.api-sports.io/football/teams/7127.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FK Partizan",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/573.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "FK Crvena Zvezda",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/598.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Mladost Lucani",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/699.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Vojvodina",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/702.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "FK Spartak Zdrepceva KRV",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2251.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Radnicki NIS",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2254.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Indjija",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2631.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Novi Pazar",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2643.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Radnicki 1923",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2644.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "TSC Backa Topola",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2646.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Javor",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2653.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Napredak",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2655.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Cukaricki",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2656.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Radnik Surdulica",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2657.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "FK Vozdovac",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/2658.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "IMT Novi Beograd",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/12316.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Železničar Pančevo",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/12360.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Tekstilac Odžaci",
+    "league": "Super Liga Serbia",
+    "country": "Serbia",
+    "logo": "https://media.api-sports.io/football/teams/17438.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Mariehamn",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/587.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "HJK helsinki",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/649.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "VPS",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/650.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "SJK",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/689.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Ilves",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/1163.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Inter Turku",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/1164.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "KuPS",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/1165.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "FF Jaro",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/2075.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Kooteepee",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/2076.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "AC Oulu",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/2077.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Haka",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/2080.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Gnistan",
+    "league": "Veikkausliiga Finlandia",
+    "country": "Finland",
+    "logo": "https://media.api-sports.io/football/teams/2082.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Alashkert",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/582.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Pyunik Yerevan",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/709.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "FC Urartu",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/2276.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Ararat",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/3682.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Ararat-Armenia",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/3683.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "FC Noah",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/3684.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Shirak",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/3686.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "BKMA",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/6279.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Van",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/6286.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "West Armenia",
+    "league": "Premier League Armenia",
+    "country": "Armenia",
+    "logo": "https://media.api-sports.io/football/teams/6287.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Torpedo Kutaisi",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/685.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Dinamo Batumi",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/705.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Dinamo Tbilisi",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/2262.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Dila",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/3499.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Saburtalo",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/3502.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Gagra",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/3505.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Kolkheti Poti",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/3507.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Telavi",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/3511.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Samgurali",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/10017.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Gareji",
+    "league": "Erovnuli Georgia",
+    "country": "Georgia",
+    "logo": "https://media.api-sports.io/football/teams/14860.png",
+    "difficulty": "hard",
+    "season": 2025
+  },
+  {
+    "team": "Prishtina",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/680.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Feronikeli",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/4132.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Ballkani",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/12733.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Gjilani",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/12772.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Drita",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/14281.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Dukagjini",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/14393.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Llapi",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/14395.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Liria Prizren",
+    "league": "Liga e Parë Kosovo",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/14402.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Malisheva",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/15576.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Fushë Kosova",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/18293.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Prishtina e Re",
+    "league": "Liga e Parë Kosovo",
+    "country": "Kosovo",
+    "logo": "https://media.api-sports.io/football/teams/22816.png",
+    "difficulty": "hard",
+    "season": 2023
+  },
+  {
+    "team": "Brann",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/319.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kristiansund BK",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/320.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lillestrom",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/321.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Stromsgodset",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/324.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tromso",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/325.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Bodo/Glimt",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/327.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Haugesund",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/328.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Molde",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/329.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "ODD Ballklubb",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/330.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Rosenborg",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/331.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sandefjord",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/332.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sarpsborg 08 FF",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/333.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Viking",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/759.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "KFUM Oslo",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/2143.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Fredrikstad",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/2149.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ham-Kam",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/2159.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Moss",
+    "league": "Primera Nacional Argentina",
+    "country": "Norway",
+    "logo": "https://media.api-sports.io/football/teams/7012.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Slutsk",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/379.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Minsk",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/380.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Vitebsk",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/382.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Dnepr Mogilev",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/384.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Torpedo Zhodino",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/385.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Dinamo Brest",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/386.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Neman",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/387.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Bate Borisov",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/388.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Gomel",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/389.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Isloch Minsk R.",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/391.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Shakhter Soligorsk",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/392.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Dinamo Minsk",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/394.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Naftan",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/750.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Slavia Mozyr",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/751.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Smorgon",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/3393.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Arsenal",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/9419.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Niva",
+    "league": "Belarus Premier League",
+    "country": "Belarus",
+    "logo": "https://media.api-sports.io/football/teams/16656.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Jagiellonia",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/336.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Slask Wroclaw",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/337.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Legia Warszawa",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/339.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Gornik Zabrze",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/340.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lechia Gdansk",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/343.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Zaglebie Lubin",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/345.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Korona Kielce",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/346.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lech Poznan",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/347.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Pogon Szczecin",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/348.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Piast Gliwice",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/349.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Cracovia Krakow",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/350.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "GKS Katowice",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/3484.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Puszcza Niepołomice",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/3490.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Raków Częstochowa",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/3491.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Stal Mielec",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/3493.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Radomiak Radom",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/4248.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Widzew Łódź",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/6962.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Motor Lublin",
+    "league": "Poland Ekstraklasa",
+    "country": "Poland",
+    "logo": "https://media.api-sports.io/football/teams/14562.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hammarby FF",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/363.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Djurgardens IF",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/364.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IFK Goteborg",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/366.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "BK Hacken",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/367.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sirius",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/370.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IF Brommapojkarna",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/371.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IF Elfsborg",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/372.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kalmar FF",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/374.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Malmo FF",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/375.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "AIK Stockholm",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/377.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IFK Norrkoping",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/378.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Halmstad",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/766.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IFK Varnamo",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/2163.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Gais",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/2170.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Landskrona BoIS",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/2176.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Mjallby AIF",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/2240.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Vasteras SK FK",
+    "league": "Sweden Allsvenskan",
+    "country": "Sweden",
+    "logo": "https://media.api-sports.io/football/teams/2241.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hapoel Beer Sheva",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/563.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Maccabi Tel Aviv",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/604.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Beitar Jerusalem",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/657.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hapoel Haifa",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/2253.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Maccabi Haifa",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4195.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Bnei Sakhnin",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4481.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hapoel Katamon",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4486.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Maccabi Petah Tikva",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4495.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Hapoel Hadera",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4500.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Maccabi Netanya",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4505.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ashdod",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4507.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ironi Kiryat Shmona",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/4510.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Ironi Tiberias",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/6181.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Maccabi Bnei Raina",
+    "league": "Israel Ligat Ha al",
+    "country": "Israel",
+    "logo": "https://media.api-sports.io/football/teams/6186.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IBV Vestmannaeyjar",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/268.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Keflavik",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/269.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Fjolnir",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/273.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Grindavik",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/277.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Throttur Reykjavik",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/829.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Leiknir R.",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/2114.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Thor Akureyri",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/2116.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Grotta",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/2121.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "IR Reykjavik",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/2122.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Njardvik",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/2123.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Afturelding",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/3514.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Dalvík / Reynir",
+    "league": "Iceland 1 Deild",
+    "country": "Iceland",
+    "logo": "https://media.api-sports.io/football/teams/4172.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Cavalry FC",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/2619.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "HFX Wanderers FC",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/2621.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Pacific FC",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/2622.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "York United",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/2623.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Forge",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/3830.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Valour",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/3831.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Atlético Ottawa",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/10169.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Vancouver FC",
+    "league": "Canadian Premier League",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/20881.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Jaguares de Chiapas",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/2293.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Cimarrones",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/2301.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Zacatepec 1948",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/2303.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Inter Playa del Carmen",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/12793.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Aguacateros CDU",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15918.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Colima",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15927.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Gavilanes FC Matamoros",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15931.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Irapuato",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15932.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Leones Negros",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15933.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Mineros de Fresnillo",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15935.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Pioneros de Cancún",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15936.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Reboceros La Piedad",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15937.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tecos",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15938.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "UA Zacatecas",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15939.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Zitacuaro",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15940.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Durango",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/15941.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Correcaminos UAT II",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17782.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Deportivo Zap",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17783.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Lobos ULMX",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17787.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Montañeses",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17788.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sporting Canamy",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17789.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tritons Vallarta",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/17790.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Chilpancingo",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/19458.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Deportiva Venados",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/19907.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Los Cabos United",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/19908.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Mexicali FC",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/19909.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Aguacateros de Peribán",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/22043.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Petroleros de Salamanca",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/22045.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Racing de Veracruz",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/22046.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Real Apodaca",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/22047.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "San Juan de Aragón",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/22048.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Acatlan",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/24949.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Agricultores",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/24950.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Faraones Texcoco",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/24951.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tigres de Alica",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/24952.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Tapachula",
+    "league": "Mexico Liga Premier Serie A",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/teams/24954.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Pdrm",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2500.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Negeri Sembilan",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2502.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Penang",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2504.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Sabah FA",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2505.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kuala Lumpur FA",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2517.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Terengganu",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2518.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Johor Darul Takzim FC",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2523.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Perak",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2524.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Pahang",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2525.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Selangor",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2526.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kedah",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2527.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kelantan United",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/10107.png",
+    "difficulty": "hard",
+    "season": 2024
+  },
+  {
+    "team": "Kuching FA",
+    "league": "Primera B Chile",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/10108.png",
+    "difficulty": "hard",
+    "season": 2024
+  }
+]

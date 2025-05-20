@@ -1,0 +1,2986 @@
+[
+  {
+    "team": "Novara",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/513.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "PRO Vercelli",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/526.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Giana Erminio",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/865.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Padova",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/870.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Renate",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/875.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Triestina",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/877.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Albinoleffe",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/879.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Feralpisalo",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/884.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Vicenza Virtus",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1584.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lumezzane",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1689.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pro Patria",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1706.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Virtus Verona",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1707.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Arzignano Valchiampo",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/6378.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lecco",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/6379.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pergolettese",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/6380.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Caldiero Terme",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9465.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Clodiense",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9469.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Trento",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/17147.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Alcione",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/17824.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Atalanta II",
+    "league": "Serie C - Girone A",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/22104.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Spal",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/493.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ascoli",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/507.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ternana",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/516.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Perugia",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/524.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pescara",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/525.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Virtus Entella",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/527.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Gubbio",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/866.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Arezzo",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/876.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lucchese",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/889.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pontedera",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1591.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Vis Pesaro",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1708.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rimini",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1709.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pianese",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/6381.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Legnago Salus",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9472.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Città di Campobasso",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9510.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Pineto",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9514.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Torres",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9534.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sestri Levante",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/17815.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Athletic Carpi",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/17825.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Milan II",
+    "league": "Serie C - Girone B",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/24205.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Crotone",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/501.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Benevento",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/506.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Foggia",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/521.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Avellino",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/528.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Latina",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/804.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Casertana",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/885.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Messina",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/898.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Catania",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1580.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "AZ Picerno",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1587.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Taranto",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1696.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Potenza",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1710.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Cavese",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1712.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Juventus U23",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/1715.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Turris",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/5608.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sorrento",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9537.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Audace Cerignola",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9539.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Team Altamura",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9549.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Giugliano",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/9556.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "SS Monopoli",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/10138.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Trapani 1905",
+    "league": "Serie C - Girone C",
+    "country": "Italy",
+    "logo": "https://media.api-sports.io/football/teams/17862.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Red Bull Salzburg",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/571.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Austria Vienna",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/601.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "SCR Altach",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/618.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sturm Graz",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/637.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rapid Vienna",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/781.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Wolfsberger AC",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1025.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lask Linz",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1026.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "TSV Hartberg",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1072.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC BW Linz",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1394.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "WSG Wattens",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1398.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Austria Klagenfurt",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/1405.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Grazer AK",
+    "league": "Austria Bundesliga",
+    "country": "Austria",
+    "logo": "https://media.api-sports.io/football/teams/4256.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "OH Leuven",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/260.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "KVC Westerlo",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/261.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Beerschot Wilrijk",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/263.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "KV Mechelen",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/266.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Anderlecht",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/554.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Club Brugge KV",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/569.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Gent",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/631.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Standard Liege",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/733.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Kortrijk",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/734.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "St. Truiden",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/735.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Charleroi",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/736.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Antwerp",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/740.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Cercle Brugge",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/741.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Genk",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/742.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Union St. Gilloise",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/1393.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dender",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/6215.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Patro Eisden",
+    "league": "Belgium Juliper Pro League",
+    "country": "Belgium",
+    "logo": "https://media.api-sports.io/football/teams/6222.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Besiktas",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/549.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Istanbul Basaksehir",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/564.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Konyaspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/607.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Fenerbahce",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/611.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Galatasaray",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/645.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Goztepe",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/994.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Alanyaspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/996.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Trabzonspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/998.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Kayserispor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/1001.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sivasspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/1002.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Kasimpasa",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/1004.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Antalyaspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/1005.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rizespor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/1007.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Adana Demirspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3563.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Gazişehir Gaziantep",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3573.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Hatayspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3575.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "BB Bodrumspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3583.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Eyüpspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3588.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Samsunspor",
+    "league": "Turkey Super Lig",
+    "country": "Turkey",
+    "logo": "https://media.api-sports.io/football/teams/3603.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Fortuna Düsseldorf",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/158.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Hertha BSC",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/159.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Hannover 96",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/166.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "1. FC Nürnberg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/171.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC Schalke 04",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/174.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Hamburger SV",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/175.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "SSV Jahn Regensburg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/177.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "SpVgg Greuther Fürth",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/178.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "1. FC Magdeburg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/179.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "SC Paderborn 07",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/185.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC St. Pauli",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/186.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Holstein Kiel",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/191.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Eintracht Braunschweig",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/744.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "1. FC Kaiserslautern",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/745.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Karlsruher SC",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/785.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "SV Wehen",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1319.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Hansa Rostock",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1321.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "VfL Osnabrück",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1324.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "SV Elversberg",
+    "league": "2. Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1660.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Leganes",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/537.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Levante",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/539.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Espanyol",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/540.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Eibar",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/545.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Alcorcon",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/711.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Oviedo",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/718.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Tenerife",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/719.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Valladolid",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/720.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Albacete",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/722.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Huesca",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/726.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Sporting Gijon",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/731.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Zaragoza",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/732.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Elche",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/797.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Mirandes",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/799.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Racing Santander",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/4665.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC Cartagena",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/5262.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC Andorra",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/8157.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Amorebieta",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/9380.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Racing Ferrol",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/9409.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Burgos",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/9580.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Villarreal II",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/9595.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Eldense",
+    "league": "Segunda División",
+    "country": "Spain",
+    "logo": "https://media.api-sports.io/football/teams/9692.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Angers",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/77.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Bordeaux",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/78.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Amiens",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/87.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Caen",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/88.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Guingamp",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/90.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Ajaccio",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/98.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Grenoble",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/101.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Valenciennes",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/105.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Auxerre",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/108.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Estac Troyes",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/110.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Paris FC",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/114.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Quevilly",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/431.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Laval",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/433.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Saint Etienne",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1063.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "PAU",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1297.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Concarneau",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1300.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Rodez",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1301.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Dunkerque",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1304.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Bastia",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/1305.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Annecy",
+    "league": "Ligue 2",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/3012.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Willem II",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/195.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "ADO Den Haag",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/198.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "De Graafschap",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/199.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Groningen",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/202.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "NAC Breda",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/203.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "VVV Venlo",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/204.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Emmen",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/208.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Dordrecht",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/409.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Jong PSV",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/411.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "MVV",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/412.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Roda",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/414.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Jong AZ",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/418.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Cambuur",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/420.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Den Bosch",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/421.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC Eindhoven",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/422.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "FC OSS",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/423.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Helmond Sport",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/424.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Jong Ajax",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/425.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Telstar",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/427.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Jong Utrecht",
+    "league": "Eerste Divisie",
+    "country": "Netherlands",
+    "logo": "https://media.api-sports.io/football/teams/428.png",
+    "difficulty": "medium",
+    "season": 2023
+  },
+  {
+    "team": "Seattle Sounders",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1595.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "San Jose Earthquakes",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1596.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Dallas",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1597.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Orlando City SC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1598.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Philadelphia Union",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1599.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Houston Dynamo",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1600.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Toronto FC",
+    "league": "MLS",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/1601.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "New York Red Bulls",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1602.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Vancouver Whitecaps",
+    "league": "MLS",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/1603.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "New York City FC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1604.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Los Angeles Galaxy",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1605.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Real Salt Lake",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1606.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Chicago Fire",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1607.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Atlanta United FC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1608.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "New England Revolution",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1609.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Colorado Rapids",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1610.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sporting Kansas City",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1611.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Minnesota United FC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1612.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Columbus Crew",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1613.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CF Montreal",
+    "league": "MLS",
+    "country": "Canada",
+    "logo": "https://media.api-sports.io/football/teams/1614.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "DC United",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1615.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Los Angeles FC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1616.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Portland Timbers",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/1617.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Cincinnati",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/2242.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Inter Miami",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/9568.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Nashville SC",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/9569.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Austin",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/16489.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Charlotte",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/18310.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "St. Louis City",
+    "league": "MLS",
+    "country": "USA",
+    "logo": "https://media.api-sports.io/football/teams/20787.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ludogorets",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/566.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Botev Plovdiv",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/634.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Levski Sofia",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/646.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Cherno More Varna",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/851.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CSKA Sofia",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/853.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Slavia Sofia",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/854.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Septemvri Sofia",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/856.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Beroe",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/857.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lokomotiv Plovdiv",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/858.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Botev Vratsa",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/859.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lokomotiv Sofia",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1416.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CSKA 1948",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1426.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Arda Kardzhali",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/1430.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Hebar 1918",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/4659.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Spartak Varna",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/4660.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Levski Krumovgrad",
+    "league": "Bulgaria First League",
+    "country": "Bulgaria",
+    "logo": "https://media.api-sports.io/football/teams/17306.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rudes",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/1019.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "HNK Cibalia",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/1021.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dugopolje",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/1471.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sesvete",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/1479.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Bsk Bijelo Brdo",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/1487.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Vukovar",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/5730.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Opatija",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/6246.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Croatia Zmijavci",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/6254.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dubrava Zagreb",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/6255.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Orijent 1919",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/6256.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Jarun",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/8605.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Zrinski Jurjevac",
+    "league": "Croatia First NL",
+    "country": "Croatia",
+    "logo": "https://media.api-sports.io/football/teams/8615.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Voluntari",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2578.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Concordia",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2580.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Chindia Targoviste",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2586.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Arges Pitesti",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2592.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CS Mioveni",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2594.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "ACS Sirineasa",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2600.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Metaloglobus",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2604.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CS Afumati",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/2608.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CSM Reşiţa",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6229.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Csikszereda",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6230.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ceahlăul Piatra Neamţ",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6852.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Focşani",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6863.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Metalul Buzău",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6875.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Slatina",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6898.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "U Craiova 1948",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6910.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Viitorul Şelimbăr",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/6927.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CSA Steaua Bucureşti",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/7466.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dumbrăviţa",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/7469.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Unirea Ungheni",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/7492.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Bihor Oradea",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/20033.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Corvinul Hunedoara",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/20034.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Muscelul Câmpulung Elite",
+    "league": "Romania Liga 1",
+    "country": "Romania",
+    "logo": "https://media.api-sports.io/football/teams/20831.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CSKA Moscow",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/555.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Spartak Moscow",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/558.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Zenit",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/596.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lokomotiv",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/597.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Krasnodar",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/621.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Rostov",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/779.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Krylia Sovetov",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1079.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Orenburg",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1080.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rubin",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1083.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Akhmat",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1085.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dynamo",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1088.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Fakel",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1993.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Khimki",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/1994.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Nizhny Novgorod",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/2011.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Akron",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/6786.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Makhachkala",
+    "league": "Russia Premier League",
+    "country": "Russia",
+    "logo": "https://media.api-sports.io/football/teams/6813.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Basel 1893",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/551.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "BSC Young Boys",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/565.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Lugano",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/606.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Sion",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/630.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Luzern",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/644.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Zurich",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/783.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC ST. Gallen",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/1011.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Grasshoppers",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/1013.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lausanne",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/1014.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "FC Winterthur",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/2180.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Servette FC",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/2184.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Yverdon Sport",
+    "league": "Switzerland Super League",
+    "country": "Switzerland",
+    "logo": "https://media.api-sports.io/football/teams/6653.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Celtic",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/247.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Hibernian",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/249.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Kilmarnock",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/250.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "ST Mirren",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/251.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Aberdeen",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/252.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dundee",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/253.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Heart Of Midlothian",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/254.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Livingston",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/255.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Motherwell",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/256.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rangers",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/257.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "ST Johnstone",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/258.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Partick",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/901.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ross County",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/902.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Dundee Utd",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/1386.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ayr Utd",
+    "league": "Scotland Premiership",
+    "country": "Scotland",
+    "logo": "https://media.api-sports.io/football/teams/1387.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Gimnasia L.P.",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/434.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "River Plate",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/435.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Racing Club",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/436.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Rosario Central",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/437.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Velez Sarsfield",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/438.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Godoy Cruz",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/439.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Belgrano Cordoba",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/440.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Union Santa Fe",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/441.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Defensa Y Justicia",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/442.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Huracan",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/445.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lanus",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/446.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Banfield",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/449.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Estudiantes L.P.",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/450.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Boca Juniors",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/451.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Tigre",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/452.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Independiente",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/453.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Atletico Tucuman",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/455.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Talleres Cordoba",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/456.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Newells Old Boys",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/457.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Argentinos JRS",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/458.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "San Lorenzo",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/460.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Independ. Rivadavia",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/473.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sarmiento Junin",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/474.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Deportivo Riestra",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/476.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Instituto Cordoba",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/478.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Platense",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/1064.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Central Cordoba de Santiago",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/1065.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Barracas Central",
+    "league": "Liga Profesional Argentina",
+    "country": "Argentina",
+    "logo": "https://media.api-sports.io/football/teams/2432.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Olympiakos Piraeus",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/553.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "AEK Athens FC",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/575.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Panathinaikos",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/617.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "PAOK",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/619.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Panetolikos",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/949.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Asteras Tripolis",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/955.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Lamia",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/956.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Levadiakos",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/957.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Aris Thessalonikis",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/1123.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "OFI",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/1124.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Kallithea",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/2095.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Panserraikos",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/2099.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Volos NFC",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/2110.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Atromitos",
+    "league": "Greece Super League 1",
+    "country": "Greece",
+    "logo": "https://media.api-sports.io/football/teams/12260.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Sport Recife",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/123.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "America Mineiro",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/125.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Santos",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/128.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ceara",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/129.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Chapecoense-sc",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/132.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Guarani Campinas",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/138.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ponte Preta",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/139.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Vila Nova",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/142.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Avai",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/145.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "CRB",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/146.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Coritiba",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/147.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Paysandu",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/149.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Goias",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/151.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Brusque",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/1211.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Operario-PR",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/1223.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Botafogo SP",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/2618.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Ituano",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/7779.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Novorizontino",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/7834.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Mirassol",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/7848.png",
+    "difficulty": "medium",
+    "season": 2024
+  },
+  {
+    "team": "Amazonas",
+    "league": "Brasileirão B",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/teams/10862.png",
+    "difficulty": "medium",
+    "season": 2024
+  }
+]

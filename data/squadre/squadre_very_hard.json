@@ -1,0 +1,1170 @@
+[
+  {
+    "team": "Guangzhou Evergrande FC",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/832.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Heilongjiang Lava Spring",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/1445.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Guangxi Baoyun",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5657.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Jiangxi Liansheng",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5665.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Qingdao Red Lions",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5679.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Shanghai Jiading",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5682.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Shenyang Urban",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5684.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Suzhou Dongwu",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/5688.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Nanjing City",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/16619.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Dongguan United",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/17263.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Hebei Kungfu",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/17264.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Wuxi Wugou",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/17269.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Yanbian Longding",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/17271.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Chongqing Tongliang Long",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/21262.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Dalian Zhixing",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/21263.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Yunnan Yukun",
+    "league": "China League One",
+    "country": "China",
+    "logo": "https://media.api-sports.io/football/teams/21265.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Gangwon FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2746.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Daegu FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2747.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Seoul E-Land FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2749.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Daejeon Citizen",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2750.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Asan Mugunghwa",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2753.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Suwon City FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2756.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Gwangju FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2759.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Jeju United FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2761.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Jeonbuk Motors",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2762.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Incheon United",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2763.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Pohang Steelers",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2764.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Seoul",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2766.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Ulsan Hyundai FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2767.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Gimcheon Sangmu FC",
+    "league": "South Korea K League",
+    "country": "South-Korea",
+    "logo": "https://media.api-sports.io/football/teams/2768.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Warriors",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4207.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Eastern",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4451.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kitchee",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4453.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Southern District",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4456.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Wofoo Tai Po",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4457.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Rangers",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4459.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Hong Kong FC",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/4462.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "North District",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/6401.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kowloon City",
+    "league": "Hong Kong Premier League",
+    "country": "Hong-Kong",
+    "logo": "https://media.api-sports.io/football/teams/20392.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "East Bengal",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/3463.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Mohun Bagan",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/3467.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "United",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/8241.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "ATK Mohun Bagan",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/15516.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Mohammedan",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/15585.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Bhawanipore",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/15749.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "East Bengal II",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21137.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Rainbow",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21215.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "BSS Sporting",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21597.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Calcutta Customs",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21599.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Diamond Harbour",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21601.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Eastern Railway",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21602.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "George Telegraph",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21604.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kalighat",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21605.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kidderpore",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21606.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Patha Chakra",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21607.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Peerless",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21608.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Railway",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21609.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Southern Samity",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21610.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Tollygunge Agragami",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21611.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Wari",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21612.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Police",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/21614.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Aryan",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/22001.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Army XI",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/24099.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Calcutta Police",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/24100.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kalighat Club",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/24101.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Measurers",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/24102.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "NA Suruchi Sangha",
+    "league": "Calcutta Premier Division",
+    "country": "India",
+    "logo": "https://media.api-sports.io/football/teams/24103.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Arema FC",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2438.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "PSM Makassar",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2441.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Pusamania Borneo",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2442.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persepam Madura Utd",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2444.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persib Bandung",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2445.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persebaya Surabaya",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2446.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Bali United",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2448.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "PSIS Semarang",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2451.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Barito Putera",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2453.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Semen Padang",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/2456.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "PSS Sleman",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/3882.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "PSBS Biak Numfor",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/4232.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persik Kediri",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/4241.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persis Solo",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/4243.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persita",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/4244.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Persija",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/10134.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Dewa United",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/17902.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Malut United",
+    "league": "League 1 Indonesia",
+    "country": "Indonesia",
+    "logo": "https://media.api-sports.io/football/teams/22409.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Pdrm",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2500.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Negeri Sembilan",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2502.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Penang",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2504.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Sabah FA",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2505.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kuala Lumpur FA",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2517.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Terengganu",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2518.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Johor Darul Takzim FC",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2523.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Perak",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2524.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Pahang",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2525.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Selangor",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2526.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kedah",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/2527.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kelantan United",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/10107.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kuching FA",
+    "league": "Malaysia Super League",
+    "country": "Malaysia",
+    "logo": "https://media.api-sports.io/football/teams/10108.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Albirex Niigata S",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4200.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Balestier Khalsa",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4201.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "DPMM FC",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4202.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Geylang International",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4203.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Home United",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4204.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Hougang United",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4205.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Tampines Rovers",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4206.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Young Lions",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/4208.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Tanjong Pagar",
+    "league": "Syngapore Premier League",
+    "country": "Singapore",
+    "logo": "https://media.api-sports.io/football/teams/10077.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Black Leopards",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/2661.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Ajax Cape Town",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/2683.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Baroka FC",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/2688.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Hungry Lions",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/10561.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "JDR Stars",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/10562.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "University of Pretoria",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/10569.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Orbit College",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/10582.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Pretoria Callies",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/15539.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Venda FC",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/17357.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Casric Stars",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/19997.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Milford FC",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/22234.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Upington City",
+    "league": "South Africa Premier Division",
+    "country": "South-Africa",
+    "logo": "https://media.api-sports.io/football/teams/22235.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Durban City",
+    "league": "South Africa Premier Division",
+    "country": "South Africa",
+    "logo": "https://media.api-sports.io/football/teams/24757.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Highbury",
+    "league": "South Africa Premier Division",
+    "country": "South Africa",
+    "logo": "https://media.api-sports.io/football/teams/24758.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Kruger United",
+    "league": "South Africa Premier Division",
+    "country": "South Africa",
+    "logo": "https://media.api-sports.io/football/teams/24759.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Leruma United",
+    "league": "South Africa Premier Division",
+    "country": "South Africa",
+    "logo": "https://media.api-sports.io/football/teams/24760.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Aberystwyth Town",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/351.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Bala Town",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/352.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Cardiff MET",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/353.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "The New Saints",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/354.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Caernarfon Town",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/356.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "GAP Connah S Quay FC",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/357.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Newtown AFC",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/358.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Barry Town",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/361.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Penybont",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/2191.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Haverfordwest County AFC",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/2194.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Briton Ferry",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/2201.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Flint Town United",
+    "league": "Wales Premier Division",
+    "country": "Wales",
+    "logo": "https://media.api-sports.io/football/teams/5614.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Lincoln Red Imps FC",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/667.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "St Joseph S Fc",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/698.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Europa",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/10125.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "College 1975",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16130.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Europa Point",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16131.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Glacis United",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16132.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Lions Gibraltar",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16133.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Lynx",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16134.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Magpies",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16135.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Manchester 62",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16136.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Mons Calpe",
+    "league": "Gibraltar Premier Division",
+    "country": "Gibraltar",
+    "logo": "https://media.api-sports.io/football/teams/16137.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  }
+]

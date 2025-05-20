@@ -1,0 +1,38 @@
+{
+  "title": "FM24 Challenge Creator",
+  "difficulty": "Select difficulty:",
+  "difficulties": {
+    "very_easy": "Very Easy",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "very_hard": "Very Hard"
+  },
+  "challenge_difficulty": "Challenge difficulty:",
+  "challenge_difficulties": {
+    "all": "All",
+    "facile": "Easy",
+    "media": "Medium",
+    "difficile": "Hard",
+    "matta": "Crazy"
+  },
+  "generate_button_label": "Say goodbye to your social life",
+  "generate_button": "Generate Challenge",
+  "loading": "Generating challenge...",
+  "feedback_button": "Send Feedback",
+  "challenges": {
+    "title": "Your challenges:",
+    "categories": {
+      "rosa": "Squad",
+      "tattica": "Tactics",
+      "obiettivi": "Objectives"
+    }
+  },
+  "footer-text": "Inspired by Football Manager 2024 | Developed with love and anger by",
+  "errors": {
+    "loading": "Error loading data",
+    "check_paths": "Check that the JSON file paths are correct.",
+    "not_enough_challenges": "There aren't enough challenges for the selected difficulty level. Try selecting \"All\"."
+  },
+  "language": "Language"
+} 
