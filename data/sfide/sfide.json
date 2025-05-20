@@ -147,6 +147,22 @@
     "categoria": "rosa",
     "difficolta": "matta",
     "testo": {
+      "it": "Crea una squadra composta da giocatori con determinazione inferiore a 10",
+      "en": "Create a team composed of players with determination less than 10"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
+      "en": "Create a team composed of players with speed greater than 15 (Goalkeeper included)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
       "it": "Crea una squadra composta da giocatori il cui cognome inizia con la prima lettera della tua squadra (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) ogni giocatore deve avere un cognome diverso",
       "en": "Create a team composed of players whose surname starts with the first letter of your team (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) each player must have a different surname"
     }
@@ -159,6 +175,14 @@
       "en": "Create a team composed of players of African origin (also the second nationality)"
     }
   },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Utilizza una tattica con almeno 7 giocatori nella metà campo offensiva (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)",
+      "en": "Use a tactic with at least 7 players in the offensive half (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)"
+    }
+  },  
   {
     "categoria": "tattica",
     "difficolta": "facile",
@@ -201,7 +225,7 @@
   },
   {
     "categoria": "tattica",
-    "difficolta": "media",
+    "difficolta": "difficile",
     "testo": {
       "it": "Gioca solo con mentalità equilibrata o inferiore (difensive o molto difensive)",
       "en": "Play only with balanced or defensive mentality (defensive or very defensive)"
@@ -241,10 +265,26 @@
   },
   {
     "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Ogni giocatore può usare solo il suo ruolo principale (il primo che compare nella lista dei ruoli)",
+      "en": "Each player can only use his main role (the first one in the list of roles)"
+    }
+  },
+  {
+    "categoria": "tattica",
     "difficolta": "matta",
     "testo": {
       "it": "Nessun giocatore può usare il suo ruolo naturale",
       "en": "No player can use his natural role"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non puoi sostituire nessun giocatore",
+      "en": "You can't substitute any player"
     }
   },
   {
@@ -353,6 +393,14 @@
   },
   {
     "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Vinci la coppa nazionale in 3 stagioni",
+      "en": "Win the national cup in 3 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
     "difficolta": "media",
     "testo": {
       "it": "Vinci tre scudetti consecutivi",
@@ -363,16 +411,16 @@
     "categoria": "obiettivi",
     "difficolta": "difficile",
     "testo": {
-      "it": "Vendi un giocatore per almeno 50 milioni",
-      "en": "Sell a player for at least 50 million"
+      "it": "Vinci per cinque anni consecutivi scudetto e coppa nazionale",
+      "en": "Win five consecutive championships and national cup"
     }
   },
   {
     "categoria": "obiettivi",
-    "difficolta": "difficile",
+    "difficolta": "media",
     "testo": {
-      "it": "Porta il bilancio almeno a 100 milioni",
-      "en": "Bring the balance to at least 100 million"
+      "it": "Porta il bilancio almeno a 100 milioni (o aumenta il bilancio di almeno 100 milioni se hai già raggiunto i 100 milioni)",
+      "en": "Bring the balance to at least 100 million (or increase the balance by at least 100 million if you have already reached 100 million)"
     }
   },  
   {
@@ -385,10 +433,34 @@
   }, 
   {
     "categoria": "obiettivi",
-    "difficolta": "media",
+    "difficolta": "facile",
     "testo": {
       "it": "Promuovi almeno 3 giocatori dal vivaio alla prima squadra",
       "en": "Promote at least 3 players from youth academy to first team"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Porta al massimo le strutture di allenamento e il vivaio.",
+      "en": "Maximize the training facilities and youth academy."
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Espandi il tuo stadio fino ad arrivare a 200.000 spettatori.",
+      "en": "Expand your stadium to 200.000 spectators."
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Fai arrivare almeno 3 giocatori del vivaio alla nazionale del tuo campionato",
+      "en": "Make at least 3 youth academy players debut in your national team"
     }
   },  
   {
@@ -397,6 +469,22 @@
     "testo": {
       "it": "Vinci una coppa continentale",
       "en": "Win a continental cup"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "La nazionale del tuo campionato deve essere composta solo da giocatori del tuo vivaio",
+      "en": "Your national team must be composed only of players from your youth academy"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Concludi la stagione senza litigare con nessun giocatore",
+      "en": "Finish the season without any player disputes"
     }
   },  
   {
@@ -411,16 +499,32 @@
     "categoria": "obiettivi",
     "difficolta": "difficile",
     "testo": {
-      "it": "Concludi la stagione con almeno 100 gol segnati",
-      "en": "Finish the season with at least 100 goals scored"
+      "it": "Concludi la stagione senza mai perdere un match (solo vittorie e pareggi)",
+      "en": "Finish the season without losing a match (only wins and draws)"
     }
   },  
   {
     "categoria": "obiettivi",
     "difficolta": "difficile",
     "testo": {
-      "it": "Fai vincere il pallone d'oro a un tuo giocatore",
-      "en": "Make your player win the Ballon d'Or"
+      "it": "Concludi la stagione con almeno 100 gol segnati",
+      "en": "Finish the season with at least 100 goals scored"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Vinci il campionato con meno di 20 infortuni rossi (il giocatore non può disputare proprio la partita)",
+      "en": "Win the championship with less than 20 red injuries (the player can't play the match)"
+    }
+  },   
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fai vincere il pallone d'oro a un tuo giocatore del vivaio",
+      "en": "Make your youth academy player win the Ballon d'Or"
     }
   }, 
   {
@@ -437,6 +541,14 @@
     "testo": {
       "it": "Vinci il tripete entro 10 stagioni",
       "en": "Win the treble within 10 seasons"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Il tuo staff di scout deve avere conoscenza completa di tutte le nazioni del mondo",
+      "en": "Your scouting staff must have complete knowledge of all countries in the world"
     }
   }, 
   {
