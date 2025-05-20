@@ -73,24 +73,24 @@ function disableGoogleAnalytics() {
 // Spiegazioni delle difficoltà in italiano e inglese
 const difficultyExplanations = {
   very_easy: {
-    it: "Squadre di alto livello con rosa completa e già pronta. Ideale per chi vuole gestire top club senza grandi sfide finanziarie o di costruzione della squadra.",
-    en: "High level teams with a complete and ready squad. Ideal for those who want to manage top clubs without major financial or team building challenges."
+    it: "Principali campionati europei e mondiali , comodi per principianti che vogliono imparare a gestire una squadra",
+    en: "Major European and World Championships, easy for beginners who want to learn how to manage a team."
   },
   easy: {
-    it: "Club con buone risorse e una squadra solida. Qualche sfida di gestione, ma con basi stabili e una buona reputazione.",
-    en: "Clubs with good resources and a solid team. Some management challenges, but with stable foundations and a good reputation."
+    it: "Campionati di leghe subito inferiori, seconde divisioni e campionati meno conosciuti, ideali per chi cerca una leggera sfida.",
+    en: "Minor leagues, second divisions and less known championships, ideal for those who want a light challenge."
   },
   medium: {
-    it: "Squadre di medio livello con un mix di sfide: budget limitato, necessità di rinforzi in alcuni ruoli, ma con potenziale di crescita.",
+    it: "Squadre di livello inferiore o squadre di campionati con basso ranking, per chi cerca una squadra da far crescere o vuole cimentarsi in un campionato con giocatori poco conosciuti",
     en: "Mid-level teams with a mix of challenges: limited budget, need for reinforcements in some positions, but with growth potential."
   },
   hard: {
-    it: "Club con risorse limitate e diverse problematiche da risolvere: rosa sbilanciata, finanze instabili, aspettative elevate rispetto alla realtà.",
-    en: "Clubs with limited resources and various problems to solve: unbalanced squad, unstable finances, expectations higher than reality."
+    it: "Campionati quasi del tutto sconosciuti,squadre spesso con basso budget o strutture scadenti. Perfetti per chi cerca una vera sfida.",
+    en: "Almost unknown championships, teams often with low budget or poor facilities. Perfect for those who want a real challenge."
   },
   very_hard: {
-    it: "Sfida estrema con club in difficoltà: problemi finanziari seri, rosa inadeguata, strutture carenti e pressioni esterne. Per veri maestri di FM.",
-    en: "Extreme challenge with clubs in difficulty: serious financial problems, inadequate squad, poor facilities and external pressures. For true FM masters."
+    it: "Probabilmente vedrai la squadra e la prima cosa che farai sarà cercarla sulla mappa geografica, palloni di stracci e campi di asfalto per la sfida suprema. Dopo puoi fare un autografo a Guardiola.",
+    en: "The first thing you'll do when you see the team is to search for it on the map, balls made of rags and asphalt fields for the ultimate challenge. After that, you can get an autograph from Guardiola."
   }
 };
 
@@ -113,8 +113,8 @@ const challengeDifficultyExplanations = {
     en: "Challenging tasks that will test even experienced managers, requiring planning and advanced skills."
   },
   matta: {
-    it: "Sfide estreme e inusuali che possono sembrare quasi impossibili. Solo per chi cerca una vera sfida fuori dal comune.",
-    en: "Extreme and unusual challenges that may seem almost impossible. Only for those looking for a real extraordinary challenge."
+    it: "Ma allora vuoi farti davvero male.Qui dovrai fare scorta di bibite energetiche e fazzoletti per le lacrime che verserai.",
+    en: "If you really want to make it hard for yourself. Here you will need to stock up on energy drinks and tissues for the tears you will shed."
   }
 };
 
