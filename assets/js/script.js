@@ -374,7 +374,9 @@ async function generaSfida() {
   const livello = document.getElementById('difficulty').value;
   const difficoltaSfide = document.getElementById('challenge-difficulty').value;
   const squadrePath = `./data/squadre/squadre_${livello}.json`;
-  const sfidePath = `./data/sfide/sfide.json`;
+  const sfideRosaPath = `./data/sfide/sfide-rosa.json`;
+  const sfideTatticaPath = `./data/sfide/sfide-tattica.json`;
+  const sfideObiettiviPath = `./data/sfide/sfide-obiettivi.json`;
 
   // Traccia l'evento di generazione sfida
   trackEvent('Challenge', 'Generate', `Difficulty: ${livello}, Challenge Difficulty: ${difficoltaSfide}`);
@@ -395,7 +397,9 @@ async function generaSfida() {
 
   try {
     const squadre = await fetch(squadrePath).then(r => r.json());
-    const sfideTotali = await fetch(sfidePath).then(r => r.json());
+    const sfideRosaTotali = await fetch(sfideRosaPath).then(r => r.json());
+    const sfideTatticaTotali = await fetch(sfideTatticaPath).then(r => r.json());
+    const sfideObiettiviTotali = await fetch(sfideObiettiviPath).then(r => r.json());
 
     // Se la squadra è bloccata, utilizziamo quella
     let squadra = lockedElements.team;
@@ -408,19 +412,10 @@ async function generaSfida() {
     // Sostituisci l'URL hardcoded con quello della variabile d'ambiente
     const logoUrl = squadra.logo.replace("https://media.api-sports.io", getApiUrl());
 
-    // Dividi le sfide per categoria e filtra per difficoltà
-    const sfideRosa = filterSfideByDifficulty(
-      sfideTotali.filter(sfida => sfida.categoria === "rosa"),
-      difficoltaSfide
-    );
-    const sfideTattica = filterSfideByDifficulty(
-      sfideTotali.filter(sfida => sfida.categoria === "tattica"),
-      difficoltaSfide
-    );
-    const sfideObiettivi = filterSfideByDifficulty(
-      sfideTotali.filter(sfida => sfida.categoria === "obiettivi"),
-      difficoltaSfide
-    );
+    // Filtra le sfide per difficoltà
+    const sfideRosa = filterSfideByDifficulty(sfideRosaTotali, difficoltaSfide);
+    const sfideTattica = filterSfideByDifficulty(sfideTatticaTotali, difficoltaSfide);
+    const sfideObiettivi = filterSfideByDifficulty(sfideObiettiviTotali, difficoltaSfide);
 
     // Controllo se ci sono abbastanza sfide per ciascuna categoria
     if (sfideRosa.length === 0 || sfideTattica.length === 0 || sfideObiettivi.length === 0) {

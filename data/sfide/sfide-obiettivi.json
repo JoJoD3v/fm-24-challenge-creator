@@ -1,0 +1,202 @@
+[
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Vinci il campionato in 5 stagioni",
+      "en": "Win the league in 5 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Vinci lo scudetto in 3 stagioni",
+      "en": "Win the championship in 3 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Vinci la coppa nazionale in 3 stagioni",
+      "en": "Win the national cup in 3 seasons"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Vinci tre scudetti consecutivi",
+      "en": "Win three consecutive championships"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Vinci per cinque anni consecutivi scudetto e coppa nazionale",
+      "en": "Win five consecutive championships and national cup"
+    }
+  },
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Porta il bilancio almeno a 100 milioni (o aumenta il bilancio di almeno 100 milioni se hai già raggiunto i 100 milioni)",
+      "en": "Bring the balance to at least 100 million (or increase the balance by at least 100 million if you have already reached 100 million)"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Porta il bilancio almeno a 1000 milioni",
+      "en": "Bring the balance to at least 1000 million"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Promuovi almeno 3 giocatori dal vivaio alla prima squadra",
+      "en": "Promote at least 3 players from youth academy to first team"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Porta al massimo le strutture di allenamento e il vivaio.",
+      "en": "Maximize the training facilities and youth academy."
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Camp Enormou. Espandi il tuo stadio fino ad arrivare a 200.000 spettatori.",
+      "en": "Bernabeu the Giant. Expand your stadium to 200.000 spectators."
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Fai arrivare almeno 3 giocatori del vivaio alla nazionale del tuo campionato",
+      "en": "Make at least 3 youth academy players debut in your national team"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Vinci una coppa continentale",
+      "en": "Win a continental cup"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Buonasera Varriale. Fai te per gli obiettivi ma litiga con tutti i giornalisti, partecipa ad ogni conferenza stampa e rispondi male a qualunque domanda. +1 punto per ogni collega insultato pesante.",
+      "en": "Suppress the press. Do your best for the objectives but quarrel with all journalists, attend every press conference and answer badly any question. +1 point for each heavy insulted colleague."
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "La nazionale del tuo campionato deve essere composta solo da giocatori del tuo vivaio",
+      "en": "Your national team must be composed only of players from your youth academy"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "media",
+    "testo": {
+      "it": "Concludi la stagione senza litigare con nessun giocatore",
+      "en": "Finish the season without any player disputes"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fai almeno 15 clean sheets in una stagione",
+      "en": "Make at least 15 clean sheets in a season"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Concludi la stagione senza mai perdere un match (solo vittorie e pareggi)",
+      "en": "Finish the season without losing a match (only wins and draws)"
+    }
+  },  
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Concludi la stagione con almeno 100 gol segnati",
+      "en": "Finish the season with at least 100 goals scored"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Vinci il campionato con meno di 20 infortuni rossi (il giocatore non può disputare proprio la partita)",
+      "en": "Win the championship with less than 20 red injuries (the player can't play the match)"
+    }
+  },   
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fai vincere il pallone d'oro a un tuo giocatore del vivaio",
+      "en": "Make your youth academy player win the Ballon d'Or"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Concludi la stagione con la migliore difesa",
+      "en": "Finish the season with the best defense"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Vinci il tripete entro 10 stagioni",
+      "en": "Win the treble within 10 seasons"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Fallo poco involontario. Vinci il campionato con il più alto numero di ammonizioni ed espulsioni della lega",
+      "en": "I play violence. Win the league with the highest number of yellow cards and red cards in the league"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Il tuo staff di scout deve avere conoscenza completa di tutte le nazioni del mondo",
+      "en": "Your scouting staff must have complete knowledge of all countries in the world"
+    }
+  }, 
+  {
+    "categoria": "obiettivi",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea il miglior vivaio del mondo",
+      "en": "Create the best youth academy in the world"
+    }
+  }
+] 

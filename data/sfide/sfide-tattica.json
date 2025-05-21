@@ -1,0 +1,402 @@
+[
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "I Magnifici 7. Utilizza una tattica con almeno 7 giocatori nella metà campo offensiva (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)",
+      "en": "Taste my seven. Use a tactic with at least 7 players in the offensive half (es. 2-1-7, 1-2-7, 1-1-8, 1-3-6, 1-4-5, 2-2-6, 2-3-5, 3-2-5, 3-3-4)"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-4-2 fisso",
+      "en": "Mandatory fixed 4-4-2 formation"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Utilizza la tattica 4-3-2-1. Auguri di buon Natale!",
+      "en": "Use the 4-3-2-1 tactic. Merry Christmas!"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Usa due Trovaspazi nella tua tattica",
+      "en": "Use two Raumdeuter in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa un rifinitore nella tua tattica",
+      "en": "Use the Enganche in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa un Falso 9 nella tua tattica",
+      "en": "Use the False 9 in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa il Libero che avanza nella tua tattica",
+      "en": "Use the Libero in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa due difensori senza fronzoli nella tua tattica",
+      "en": "Use two no-joke defenders in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa due esterni invertiti nella tua tattica",
+      "en": "Use two inverted wing-backs in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "YOLO : tutti i giocatori nella tua tattica devono avere l'istruzione Prendi più rischi",
+      "en": "YOLO : all players in your tactic must have the instruction 'Take more risks'"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Nessun ruolo playmaker (regista, centrocampista offensivo, trequartista)",
+      "en": "No playmaker role (regista, offensive midfielder, trequartista)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Parcheggia l'autobus. Usa il 5-4-1 con mentalità Difensiva per tutta la stagione. Niente pressing. Solo noia.",
+      "en": "Park the bus. Use the 5-4-1 formation with defensive mentality for the whole season. No pressing. Only boredom."
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Tattica perfettamente simmetrica (terzino attacco a sinistra e destra, mezzala a sinistra e destra, centrocampista a sinistra e destra)",
+      "en": "Perfectly symmetrical tactic (left and right attacking wing, left and right attacking midfielder, left and right defensive midfielder)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Modifica il modulo ogni inizio mese",
+      "en": "Change the formation every month"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Gioca solo con mentalità equilibrata o inferiore (difensive o molto difensive)",
+      "en": "Play only with balanced or defensive mentality (defensive or very defensive)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Gioca solo con mentalità positiva o superiore (offensiva o molto offensiva)",
+      "en": "Play only with positive or offensive mentality (offensive or very offensive)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Gioca sempre con due attaccanti",
+      "en": "Always play with two strikers"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Gioca sempre con un solo attaccante",
+      "en": "Always play with one striker"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta gli allenamenti con fisse almeno 4 sessioni di tipo Fisico tutte le settimane. Anche sei hai quattro partite in una settimana.",
+      "en": "Set the trainings with fixed at least 4 physical sessions (the gray ones) every week. Even if you have four matches in a week."
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Usa solo moduli asimmetrici",
+      "en": "Use only asymmetric formations"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non utilizzare le tattiche di squadra (sovrapponiti a sinistra o a destra, impostare ampiezza o stile dei passaggi, linea del pressing ). Utilizza solo istruzioni manuali per le tattica",
+      "en": "Don't use team tactics (overlap left or right, set the width or passing style, line of pressing). Use only manual instructions for tactics"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Ogni giocatore può usare solo il suo ruolo principale (il primo che compare nella lista dei ruoli)",
+      "en": "Each player can only use his main role (the first one in the list of roles)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Nessun giocatore può usare il suo ruolo naturale",
+      "en": "No player can use his natural role"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Vicini vicini. Imposta ampiezza di attacco e stile dei passaggi al minimo possibile. Posiziona i giocatori senza slot di spazio nella tattica tra l'uno e l'altro.",
+      "en": "Neighbours. Set attack width and passing style to the minimum possible. Position players without space in the tactic between one another."
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non puoi sostituire nessun giocatore",
+      "en": "You can't substitute any player"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con difesa a 4 (es. 4-3-3, 4-2-4, 4-1-5, 4-5-1)",
+      "en": "Use formations with 4 central defenders (es. 4-3-3, 4-2-4, 4-1-5, 4-5-1)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con centrocampo a 3 (es. 4-3-3, 3-5-2, 4-5-1)",
+      "en": "Use formations with 3 midfielders (es. 4-3-3, 3-5-2, 4-5-1)"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con centrocampista offensivo e due attaccanti",
+      "en": "Use formations with offensive midfielder and two strikers"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con due centrocampisti offensivi e due attaccanti",
+      "en": "Use formations with two offensive midfielders and two strikers"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Usa moduli con due mezzala",
+      "en": "Use formations with two mezzala"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-3-3 fisso",
+      "en": "Mandatory fixed 4-3-3 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 3-5-2 fisso",
+      "en": "Mandatory fixed 3-5-2 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 3-4-2-1 fisso",
+      "en": "Mandatory fixed 3-4-2-1 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Obbligo modulo 4-2-4 fisso",
+      "en": "Mandatory fixed 4-2-4 formation"
+    }
+  },  
+  {
+    "categoria": "tattica",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Obbligo modulo con gegenpress",
+      "en": "Mandatory gegenpress formation"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fissa modalità super offensiva",
+      "en": "Mandatory fixed super offensive mode"
+    }
+  },    
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Fissa modalità super difensiva",
+      "en": "Mandatory fixed super defensive mode"
+    }
+  },    
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "J.L.Chilavert style. Gioca con Portiere-libero attaccante ed assegnalo come tiratore di tutti i calci piazzati e rigori.",
+      "en": "J.L.Chilavert style. Play with a goalkeeper-free attacking and assign him as the taker for all free kicks, corners and penalties."
+    }
+  }, 
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Art senza Attack. Gioca senza attaccanti",
+      "en": "Not-so-advanced Forward. Play without strikers"
+    }
+  }, 
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Utilizza una formazione con la difesa a 3 (es. 3-5-2, 3-4-3)",
+      "en": "Use a formation with 3 central defenders (for example 3-5-2, 3-4-3)"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Usa una tattica basata sul possesso palla. Chiudi la stagione con la media del 55% di possesso palla.",
+      "en": "Use a possession-based tactic. End the season with a possession average of 55%."
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta al massimo lo stile dei passaggi diretto",
+      "en": "Set the direct passing style to the maximum"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta il ritmo di gioco il più lento possibile",
+      "en": "Set the game pace as slow as possible"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "L'incubo di Guardiola. Imposta ampiezza di attacco, passaggi diretti e ritmo di gioco tutto al massimo",
+      "en": "Guardiola's nightmare. Set attack width, direct passing and game pace to the maximum"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Brasilian Sniper. Imposta la tattica di squadra con l'istruzione 'Tirate appena possibile'. Tutti i giocatori devono avere l'istruzione 'Tirate di più'",
+      "en": "Brasilian Sniper. Set the team tactic with the instruction 'Shoot on sight'. All players must have the instruction 'Shoot more'"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "I come Iradeddio. La tua formazione deve avere la forma di una lettera: X, Z, T, C, L . Insomma fai te mica devo insegnarti l'alfabeto!",
+      "en": "The Alphabet tactic. Your formation must have the shape of a letter: X, Z, T, C, L. In other words, don't teach me the alphabet!"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Imposta il ritmo di gioco il più veloce possibile",
+      "en": "Set the game pace as fast as possible"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Non usare mai riabilitazione nelle sessioni di allenamento.",
+      "en": "Never use rehabilitation in training sessions"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Full metal pacchia. Imposta gli allenamenti utilizzando per ogni giorno solo una sessione su tre",
+      "en": "Sleeper defender. Set the trainings using only one session every day"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Non cambiare mai modulo durante la partita",
+      "en": "Never change formation during a match"
+    }
+  }
+] 

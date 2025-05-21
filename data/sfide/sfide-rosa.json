@@ -1,0 +1,325 @@
+[
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Acquista ad ogni stagione almeno un giocatore over 33 con alta professionalità ed usalo come tutor",
+      "en": "Buy at least one over 33 player with high professionalism at each season and use him as a tutor"
+    }
+  },
+
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Compra tre soli giocatori per sessione di mercato",
+      "en": "Buy only three players per transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista tre giocatori con modo di gestire la stampa Irascibile e tienili in squadra per tre stagioni",
+      "en": "Buy three players with an Irascible press management style and keep them in the squad for three seasons"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Porta almeno 3 tuoi ex giocatori come membri del tuo staff",
+      "en": "Bring at least 3 of your ex players as members of your staff"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista ad ogni sessione di mercato almeno un giocatore con la media voto superiore a 7",
+      "en": "Buy at least one player with an average rating above 7 at each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista ad ogni sessione di mercato almeno un giocatore con cinque stelle di potenziale",
+      "en": "Buy at least one player with five potential stars at each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Acquista un giocatore con la media voto sotto il 6,50 e fallo raggiungere a fine stagione la media voto 7",
+      "en": "Buy a player with an average rating below 6.50 and make him reach an average rating of 7 by the end of the season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Fai guadagnare ad almeno 3 giocatori 2 stelle valutazione (es. giocatore con due stelle -> 4 stelle)",
+      "en": "Make at least 3 players gain 2 rating stars (e.g. player with two stars -> 4 stars)"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista almeno un giocatore under 18 per ogni sessione di mercato",
+      "en": "Buy at least one under 18 player per each transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista almeno un giocatore che ha militato nel club in passato ogni stagione",
+      "en": "Buy at least one player who has played for the club in the past every season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Acquista un difensore con aggressività superiore a 16",
+      "en": "Buy a defender with aggression greater than 16"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Fai giocare il portiere di riserva almeno 10 partite non amichevoli",
+      "en": "Play the reserve goalkeeper at least 10 non-friendly matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "molto facile",
+    "testo": {
+      "it": "Schiera un giocatore del vivaio per almeno 5 partite",
+      "en": "Field a youth player for at least 5 matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Schiera un giocatore del vivaio per almeno 10 partite",
+      "en": "Field a youth player for at least 10 matches"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Compra solo under 23",
+      "en": "Buy only under 23 players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Compra solo over 30",
+      "en": "Buy only over 30 years old players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Solo giocatori della tua nazione",
+      "en": "Only players from your country"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Gioca con attivata l'opzione 'Usa giocatori e staff non reali'",
+      "en": "Play with the option 'Use fake players and staff' activated"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori con entrambi i piedi almeno abbastanza forti",
+      "en": "Create a team composed of players with both feet at least strong enough"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Nessun acquisto nel mercato estivo. Puoi comprare solo in gennaio (o comunque mercato di riparazione)",
+      "en": "No summer transfer. You can only buy in January (or any other repair market)"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Compri solo giocatori da squadre retrocesse.",
+      "en": "Buy only players from relegated teams."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Non comprare giocatori, solo svincolati , prestiti o in scadenza di contratto",
+      "en": "Don't buy players, only free agents, loans or players with contract expiring"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
+      "it": "Fidati del DS: puoi comprare solo i giocatori che ti propone",
+      "en": "Trust the Football Director. You can only buy the players he proposes"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Compra un solo giocatore per sessione di mercato",
+      "en": "Buy only one player per transfer window"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Niente Scouting: compra solo giocatori in base al tuo intuito.",
+      "en": "No Scouting: buy only players based on your intuition."
+    }
+  },
+
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Solo prestiti nessun acquisto",
+      "en": "Only loans, no purchases"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "difficile",
+    "testo": {
+      "it": "Non puoi acquistare nessuno nella prima stagione",
+      "en": "You can't buy any players in the first season"
+    }
+  },
+
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Reparto rianimazione: compra solo giocatori infortunati",
+      "en": "Rehabilitation department: buy only injured players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Schiera titolare per tutto il campionato il portiere della under-18",
+      "en": "Play the under-18 goalkeeper as the starting goalkeeper for the whole season"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Non puoi comprare due giocatori della stessa nazione. Se ne compri uno, devi vendere l'altro.",
+      "en": "You can't buy two players from the same country. If you buy one, you must sell the other."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Acquista solo giocatori più alti di 185 cm.",
+      "en": "Buy only players taller than 185 cm.(6'1'' inches for UK)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra solo con giocatori di personalità Risoluto.",
+      "en": "Create a team only with players with a Resolute personality."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Usa solo giocatori cresciuti nel vivaio",
+      "en": "Use only homegrown players"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Crea una squadra composta da giocatori il cui cognome inizia con la prima lettera della tua squadra (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) ogni giocatore deve avere un cognome diverso",
+      "en": "Create a team composed of players whose surname starts with the first letter of your team (es. Chelsea -> C, Juventus -> J, Milan -> M, etc.) each player must have a different surname"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "HULK MARCA! Crea una squadra composta da giocatori con aggressività superiore a 16",
+      "en": "HULK MARK! Create a team composed of players with aggression greater than 16"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Gegen-depresso. Crea una squadra composta da giocatori con determinazione inferiore a 10",
+      "en": "Gegen-depressing. Create a team composed of players with determination less than 10"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Ned Flanders mode. Acquista solo giocatori mancini.",
+      "en": "Ned Flanders mode. Buy only left-footed players."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Frodo United. Acquista solo giocatori più bassi di 170 cm.",
+      "en": "Dwarf-back wingers. Buy only players shorter than 170 cm (5'7'' inches for UK)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Speedy Nico Gonzalez. Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
+      "en": "RUN AT BALL. Create a team composed of players with speed greater than 15 (Goalkeeper included)."
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Sopra la panca la riserva manca. Gioca tutto il campionato con una rosa di soli 16 giocatori.",
+      "en": "Preserve the reserve. Play the whole season with a squad of only 16 players."
+    }
+  }
+] 
