@@ -354,6 +354,13 @@ footer {
   border-top: 1px solid #364758;
 }
 
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
 footer a {
   color: #5da9e6;
   text-decoration: none;
@@ -362,6 +369,44 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+.footer-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #283545;
+  color: #e6e6e6;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 3px;
+  font-size: 14px;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.footer-button:hover {
+  background-color: #364758;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.footer-button:active {
+  transform: translateY(0);
+}
+
+.facebook-button {
+  background-color: #3b5998;
+  color: #ffffff;
+}
+
+.facebook-button:hover {
+  background-color: #4c70ba;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    padding: 0 10px;
+  }
+}
+
 /* Loading animation */
 .loading {
   text-align: center;

@@ -177,6 +177,14 @@
   },
   {
     "categoria": "rosa",
+    "difficolta": "matta",
+    "testo": {
+      "it": "Schiera titolare per tutto il campionato il portiere della under-18",
+      "en": "Play the under-18 goalkeeper as the starting goalkeeper for the whole season"
+    }
+  },
+  {
+    "categoria": "rosa",
     "difficolta": "media",
     "testo": {
       "it": "Nessun acquisto nel mercato estivo. Puoi comprare solo in gennaio (o comunque mercato di riparazione)",
@@ -257,7 +265,7 @@
   },
   {
     "categoria": "rosa",
-    "difficolta": "matta",
+    "difficolta": "meme",
     "testo": {
       "it": "Frodo United. Acquista solo giocatori più bassi di 170 cm.",
       "en": "Dwarf-back wingers. Buy only players shorter than 170 cm (5'7'' inches for UK)."
@@ -291,8 +299,8 @@
     "categoria": "rosa",
     "difficolta": "meme",
     "testo": {
-      "it": "Hulk marca. Crea una squadra composta da giocatori con aggressività superiore a 16",
-      "en": "Gegen-Smash. Create a team composed of players with aggression greater than 16"
+      "it": "HULK MARCA! Crea una squadra composta da giocatori con aggressività superiore a 16",
+      "en": "HULK MARK! Create a team composed of players with aggression greater than 16"
     }
   },
   {
@@ -307,7 +315,7 @@
     "categoria": "rosa",
     "difficolta": "meme",
     "testo": {
-      "it": "Speedy Nico Gonzales. Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
+      "it": "Speedy Nico Gonzalez. Crea una squadra composta da giocatori con velocità superiore a 15 (Portiere incluso). 130 Martin Garrix Animals si volaaaaa!",
       "en": "RUN AT BALL. Create a team composed of players with speed greater than 15 (Goalkeeper included)."
     }
   },
@@ -659,8 +667,8 @@
     "categoria": "tattica",
     "difficolta": "meme",
     "testo": {
-      "it": "Brasilian Sniper. Imposta la tattica di squadra con l'istruzione 'Tirate appena possibile'",
-      "en": "Brasilian Sniper. Set the team tactic with the instruction 'Shoot on sight'"
+      "it": "Brasilian Sniper. Imposta la tattica di squadra con l'istruzione 'Tirate appena possibile'. Tutti i giocatori devono avere l'istruzione 'Tirate di più'",
+      "en": "Brasilian Sniper. Set the team tactic with the instruction 'Shoot on sight'. All players must have the instruction 'Shoot more'"
     }
   },
   {

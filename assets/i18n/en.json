@@ -46,6 +46,7 @@
     "reject": "Reject"
   },
   "footer-text": "Inspired by Football Manager 2024 | Developed with love and anger by",
+  "facebook_button": "Follow us on Facebook",
   "errors": {
     "loading": "Error loading data",
     "check_paths": "Check that the JSON file paths are correct.",

@@ -46,6 +46,7 @@
     "reject": "Rifiuta"
   },
   "footer-text": "Ispirato a Football Manager 2024 | Sviluppato con amore e rabbia da",
+  "facebook_button": "Seguici su Facebook",
   "errors": {
     "loading": "Errore nel caricamento dei dati",
     "check_paths": "Controlla che i percorsi dei file JSON siano corretti.",
