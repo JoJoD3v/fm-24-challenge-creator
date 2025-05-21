@@ -83,6 +83,14 @@
     "categoria": "rosa",
     "difficolta": "media",
     "testo": {
+      "it": "Gioca con attivata l'opzione 'Usa giocatori e staff non reali'",
+      "en": "Play with the option 'Use fake players and staff' activated"
+    }
+  },
+  {
+    "categoria": "rosa",
+    "difficolta": "media",
+    "testo": {
       "it": "Crea una squadra composta da giocatori con entrambi i piedi almeno abbastanza forti",
       "en": "Create a team composed of players with both feet at least strong enough"
     }

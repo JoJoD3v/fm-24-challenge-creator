@@ -480,6 +480,14 @@
     "season": 2024
   },
   {
+    "team": "FC Saarbrücken",
+    "league": "Germany 2.Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1639.png",
+    "difficulty": "easy",
+    "season": 2024
+  },
+  {
     "team": "SSV Ulm 1846",
     "league": "Germany 2.Bundesliga",
     "country": "Germany",
@@ -780,6 +788,14 @@
     "league": "Ligue 1",
     "country": "France",
     "logo": "https://media.api-sports.io/football/teams/111.png",
+    "difficulty": "easy",
+    "season": 2024
+  },
+  {
+    "team": "Metz",
+    "league": "Ligue 1",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/112.png",
     "difficulty": "easy",
     "season": 2024
   },

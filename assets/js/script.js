@@ -89,8 +89,8 @@ const difficultyExplanations = {
     en: "Almost unknown championships, teams often with low budget or poor facilities. Perfect for those who want a real challenge."
   },
   very_hard: {
-    it: "Probabilmente vedrai la squadra e la prima cosa che farai sarà cercarla sulla mappa geografica, palloni di stracci e campi di asfalto per la sfida suprema. Dopo puoi fare un autografo a Guardiola.",
-    en: "The first thing you'll do when you see the team is to search for it on the map, balls made of rags and asphalt fields for the ultimate challenge. After that, you can get an autograph from Guardiola."
+    it: "Probabilmente vedrai la squadra e la prima cosa che farai sarà cercarla sulla mappa geografica, palloni di stracci e campi di asfalto per la sfida suprema. Dopo dovrai cercarti un vero obiettivo, tipo far vincere un campionato al Manchester United.",
+    en: "The first thing you'll do when you see the team is to search for it on the map, balls made of rags and asphalt fields for the ultimate challenge. After that, you can try to win the Premier League with the Manchester United."
   }
 };
 
@@ -355,6 +355,14 @@ async function generaSfida() {
     
     // Mostra il pulsante di condivisione
     document.getElementById('share-container').style.display = 'flex';
+    
+    // Scroll automatico verso l'output
+    setTimeout(() => {
+      const outputElement = document.getElementById('output');
+      if (outputElement) {
+        outputElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 100); // Piccolo ritardo per garantire che l'HTML sia renderizzato
     
   } catch (error) {
     console.error('Errore durante il caricamento dei dati:', error);

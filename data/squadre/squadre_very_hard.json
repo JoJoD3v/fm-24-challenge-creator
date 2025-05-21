@@ -128,6 +128,198 @@
     "season": 2024
   },
   {
+    "team": "Rochdale",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1339.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Southend",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1341.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Oldham",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1349.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Hartlepool",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1366.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Barnet",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1369.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Yeovil Town",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1377.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Forest Green",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1378.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Aldershot Town",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1818.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Dagenham & Redbridge",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1821.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Eastleigh",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1822.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Gateshead",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1823.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "York",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1828.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Braintree",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1831.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Solihull Moors",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1834.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Sutton Utd",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1835.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Woking",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1836.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Maidenhead",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1838.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "AFC Fylde",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1839.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Ebbsfleet United",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1840.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "FC Halifax Town",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/1841.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Altrincham",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/4700.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Tamworth",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/7752.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Boston United",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/8146.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
+    "team": "Wealdstone",
+    "league": "England National League",
+    "country": "England",
+    "logo": "https://media.api-sports.io/football/teams/8663.png",
+    "difficulty": "very_hard",
+    "season": 2024
+  },
+  {
     "team": "Gangwon FC",
     "league": "South Korea K League",
     "country": "South-Korea",

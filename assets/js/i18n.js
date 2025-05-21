@@ -2,7 +2,7 @@
 class I18n {
   constructor() {
     this.translations = {};
-    this.currentLang = localStorage.getItem('language') || 'it'; // Default: italiano
+    this.currentLang = localStorage.getItem('language') || 'en'; // Default: inglese
     this.supportedLangs = ['it', 'en'];
     this.onLanguageChanged = null; // Callback per quando la lingua cambia
   }

@@ -288,6 +288,14 @@
     "season": 2024
   },
   {
+    "team": "Metz",
+    "league": "France Ligue 1",
+    "country": "France",
+    "logo": "https://media.api-sports.io/football/teams/112.png",
+    "difficulty": "very_easy",
+    "season": 2024
+  },
+  {
     "team": "Lens",
     "league": "France Ligue 1",
     "country": "France",
@@ -604,6 +612,14 @@
     "league": "Germany Bundesliga",
     "country": "Germany",
     "logo": "https://media.api-sports.io/football/teams/191.png",
+    "difficulty": "very_easy",
+    "season": 2024
+  },
+  {
+    "team": "SV Elversberg",
+    "league": "Germany Bundesliga",
+    "country": "Germany",
+    "logo": "https://media.api-sports.io/football/teams/1660.png",
     "difficulty": "very_easy",
     "season": 2024
   },
