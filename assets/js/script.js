@@ -382,6 +382,9 @@ async function generaSfida() {
   // Nasconde il pulsante di condivisione durante la generazione
   document.getElementById('share-container').style.display = 'none';
   
+  // Nascondi il pulsante di rigenerazione durante la generazione
+  document.getElementById('regenerate-container').style.display = 'none';
+  
   // Nascondi anche le istruzioni di blocco durante il caricamento
   document.getElementById('lock-instructions').style.display = 'none';
 
@@ -560,6 +563,9 @@ async function generaSfida() {
     
     // Mostra il pulsante di condivisione
     document.getElementById('share-container').style.display = 'flex';
+    
+    // Mostra il pulsante di rigenerazione
+    document.getElementById('regenerate-container').style.display = 'flex';
     
     // Mostra le istruzioni di blocco
     document.getElementById('lock-instructions').style.display = 'block';
