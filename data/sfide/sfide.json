@@ -345,6 +345,54 @@
   },
   {
     "categoria": "tattica",
+    "difficolta": "media",
+    "testo": {
+      "it": "Usa due Trovaspazi nella tua tattica",
+      "en": "Use two Raumdeuter in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa un rifinitore nella tua tattica",
+      "en": "Use the Enganche in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa un Falso 9 nella tua tattica",
+      "en": "Use the False 9 in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa il Libero che avanza nella tua tattica",
+      "en": "Use the Libero in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "facile",
+    "testo": {
+      "it": "Usa due esterni invertiti nella tua tattica",
+      "en": "Use two inverted wing-backs in your tactic"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "YOLO : tutti i giocatori nella tua tattica devono avere l'istruzione Prendi più rischi",
+      "en": "YOLO : all players in your tactic must have the instruction 'Take more risks'"
+    }
+  },
+  {
+    "categoria": "tattica",
     "difficolta": "matta",
     "testo": {
       "it": "Nessun ruolo playmaker (regista, centrocampista offensivo, trequartista)",
@@ -597,6 +645,14 @@
     "testo": {
       "it": "L'incubo di Guardiola. Imposta ampiezza di attacco, passaggi diretti e ritmo di gioco tutto al massimo",
       "en": "Guardiola's nightmare. Set attack width, direct passing and game pace to the maximum"
+    }
+  },
+  {
+    "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Brasilian Sniper. Imposta la tattica di squadra con l'istruzione 'Tirate appena possibile'",
+      "en": "Brasilian Sniper. Set the team tactic with the instruction 'Shoot on sight'"
     }
   },
   {
