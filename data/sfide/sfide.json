@@ -481,6 +481,14 @@
   },
   {
     "categoria": "tattica",
+    "difficolta": "meme",
+    "testo": {
+      "it": "Vicini vicini. Imposta ampiezza di attacco e stile dei passaggi al minimo possibile. Posiziona i giocatori senza slot di spazio nella tattica tra l'uno e l'altro.",
+      "en": "Neighbours. Set attack width and passing style to the minimum possible. Position players without space in the tactic between one another."
+    }
+  },
+  {
+    "categoria": "tattica",
     "difficolta": "matta",
     "testo": {
       "it": "Non puoi sostituire nessun giocatore",
@@ -787,8 +795,8 @@
     "categoria": "obiettivi",
     "difficolta": "meme",
     "testo": {
-      "it": "Guarda mamma come Walter Zenga. Fai te per gli obiettivi ma litiga con tutti i giornalisti, partecipa ad ogni conferenza stampa e rispondi male a qualunque domanda. +1 punto per ogni collega insultato pesante.",
-      "en": "Gegen-press. Do your best for the objectives but quarrel with all journalists, attend every press conference and answer badly any question. +1 point for each heavy insulted colleague."
+      "it": "Buonasera Varriale. Fai te per gli obiettivi ma litiga con tutti i giornalisti, partecipa ad ogni conferenza stampa e rispondi male a qualunque domanda. +1 punto per ogni collega insultato pesante.",
+      "en": "Suppress the press. Do your best for the objectives but quarrel with all journalists, attend every press conference and answer badly any question. +1 point for each heavy insulted colleague."
     }
   },  
   {
