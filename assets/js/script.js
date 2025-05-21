@@ -247,10 +247,19 @@ async function condividiSfida() {
     // Converte in URL dati
     const dataUrl = canvas.toDataURL('image/png');
     
-    // Crea un link per il download
+    // Crea un nome file con data e ora
+    const now = new Date();
+    const dateTimeString = now.getFullYear() + 
+                          ('0' + (now.getMonth() + 1)).slice(-2) + 
+                          ('0' + now.getDate()).slice(-2) + '_' + 
+                          ('0' + now.getHours()).slice(-2) + 
+                          ('0' + now.getMinutes()).slice(-2) + 
+                          ('0' + now.getSeconds()).slice(-2);
+    
+    // Crea un link per il download con nome file che include data e ora
     const link = document.createElement('a');
     link.href = dataUrl;
-    link.download = 'fm24-challenge.png';
+    link.download = `fm24-challenge_${dateTimeString}.png`;
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -272,6 +281,92 @@ async function condividiSfida() {
   }
 }
 
+// Oggetto per memorizzare gli elementi bloccati
+const lockedElements = {
+  team: null,
+  squadChallenge: null,
+  tacticsChallenge: null,
+  objectivesChallenge: null
+};
+
+// Flag per tenere traccia se è la prima generazione
+let isFirstGeneration = true;
+
+// Funzione per bloccare/sbloccare un elemento
+function toggleLock(type, element) {
+  // Determina se stiamo bloccando o sbloccando
+  const isLocking = !lockedElements[type];
+  
+  // Aggiorna lo stato di blocco
+  lockedElements[type] = isLocking ? element : null;
+  
+  // Traccia l'evento
+  trackEvent('Feature', isLocking ? 'Lock' : 'Unlock', `${type} element`);
+  
+  // Aggiorna l'interfaccia per mostrare quali elementi sono bloccati
+  updateLockUI();
+}
+
+// Funzione per aggiornare l'interfaccia in base agli elementi bloccati
+function updateLockUI() {
+  // Aggiorna il pulsante di blocco della squadra
+  const teamLockBtn = document.getElementById('team-lock-btn');
+  if (teamLockBtn) {
+    teamLockBtn.innerHTML = lockedElements.team ? '🔒' : '🔓';
+    teamLockBtn.classList.toggle('locked', !!lockedElements.team);
+    teamLockBtn.setAttribute('title', lockedElements.team ? 
+      window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip'));
+    
+    // Aggiorna anche la classe bloccata sul contenitore della squadra
+    const teamContainer = document.querySelector('.team-info');
+    if (teamContainer) teamContainer.classList.toggle('locked', !!lockedElements.team);
+  }
+  
+  // Aggiorna i pulsanti di blocco delle sfide
+  updateChallengeLockBtn('rosa', 'squadChallenge');
+  updateChallengeLockBtn('tattica', 'tacticsChallenge');
+  updateChallengeLockBtn('obiettivi', 'objectivesChallenge');
+  
+  // Mostra le istruzioni di blocco
+  document.getElementById('lock-instructions').style.display = 'block';
+}
+
+// Funzione di supporto per aggiornare un pulsante di blocco della sfida
+function updateChallengeLockBtn(className, challengeType) {
+  const btn = document.querySelector(`.challenges li.${className} .lock-btn`);
+  if (btn) {
+    btn.innerHTML = lockedElements[challengeType] ? '🔒' : '🔓';
+    btn.classList.toggle('locked', !!lockedElements[challengeType]);
+    btn.setAttribute('title', lockedElements[challengeType] ? 
+      window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip'));
+    
+    // Aggiorna anche la classe bloccata sull'elemento della lista
+    const listItem = document.querySelector(`.challenges li.${className}`);
+    if (listItem) listItem.classList.toggle('locked', !!lockedElements[challengeType]);
+  }
+}
+
+// Funzione per creare un pulsante di blocco
+function createLockButton(type, element) {
+  const isLocked = lockedElements[type] !== null;
+  const btn = document.createElement('span');
+  btn.className = `lock-btn ${isLocked ? 'locked' : ''}`;
+  btn.innerHTML = isLocked ? '🔒' : '🔓';
+  btn.setAttribute('title', isLocked ? 
+    window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip'));
+  
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    toggleLock(type, element);
+    
+    // Aggiungi l'animazione di pulsazione
+    btn.classList.add('pulse');
+    setTimeout(() => btn.classList.remove('pulse'), 300);
+  });
+  
+  return btn;
+}
+
 async function generaSfida() {
   // Assicuriamoci che le variabili d'ambiente e le traduzioni siano caricate
   await Promise.all([ensureEnvLoaded(), ensureI18nLoaded()]);
@@ -286,6 +381,9 @@ async function generaSfida() {
 
   // Nasconde il pulsante di condivisione durante la generazione
   document.getElementById('share-container').style.display = 'none';
+  
+  // Nascondi anche le istruzioni di blocco durante il caricamento
+  document.getElementById('lock-instructions').style.display = 'none';
 
   // Mostra un indicatore di caricamento
   document.getElementById('output').innerHTML = `
@@ -296,7 +394,13 @@ async function generaSfida() {
     const squadre = await fetch(squadrePath).then(r => r.json());
     const sfideTotali = await fetch(sfidePath).then(r => r.json());
 
-    const squadra = squadre[Math.floor(Math.random() * squadre.length)];
+    // Se la squadra è bloccata, utilizziamo quella
+    let squadra = lockedElements.team;
+    
+    // Altrimenti selezioniamo una squadra casuale
+    if (!squadra) {
+      squadra = squadre[Math.floor(Math.random() * squadre.length)];
+    }
     
     // Sostituisci l'URL hardcoded con quello della variabile d'ambiente
     const logoUrl = squadra.logo.replace("https://media.api-sports.io", getApiUrl());
@@ -326,18 +430,27 @@ async function generaSfida() {
       return;
     }
 
-    // Seleziona una sfida da ciascuna categoria
-    const sfidaRosa = selectRandomSfida(sfideRosa);
-    const sfidaTattica = selectRandomSfida(sfideTattica);
-    const sfidaObiettivo = selectRandomSfida(sfideObiettivi);
-
-    // Array con le tre sfide selezionate
-    const sfideSelezionate = [sfidaRosa, sfidaTattica, sfidaObiettivo];
+    // Seleziona le sfide, usando quelle bloccate se presenti
+    const sfidaRosa = lockedElements.squadChallenge || selectRandomSfida(sfideRosa);
+    const sfidaTattica = lockedElements.tacticsChallenge || selectRandomSfida(sfideTattica);
+    const sfidaObiettivo = lockedElements.objectivesChallenge || selectRandomSfida(sfideObiettivi);
     
+    // Non blocchiamo più automaticamente gli elementi alla prima generazione
+    // Rimosso il codice che impostava automaticamente gli elementi come bloccati
+
+    // Costruisci l'output HTML con i pulsanti di blocco
     document.getElementById('output').innerHTML = `
-      <div class="team-info">
-        <h2>${squadra.team}</h2>
-        <p>${squadra.league} <span class="country">(${squadra.country})</span></p>
+      <div class="team-info ${lockedElements.team ? 'locked' : ''}" data-lockable="team"
+           data-tooltip="${window.i18n.t('clickable_area.lock_tooltip')}"
+           data-tooltip-unlock="${window.i18n.t('clickable_area.unlock_tooltip')}">
+        <h2 style="text-align: center;">${squadra.team}</h2>
+        <div style="text-align: center;">
+          <p>${squadra.league} <span class="country">(${squadra.country})</span></p>
+          <span id="team-lock-btn" class="lock-btn ${lockedElements.team ? 'locked' : ''}" 
+                title="${lockedElements.team ? window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip')}">
+            ${lockedElements.team ? '🔒' : '🔓'}
+          </span>
+        </div>
         <div class="logo-container">
           <img src="${logoUrl}" alt="Logo ${squadra.team}" class="team-logo" crossorigin="anonymous" />
         </div>
@@ -346,15 +459,110 @@ async function generaSfida() {
       <div class="challenge-section">
         <h3>${window.i18n.t('challenges.title')}</h3>
         <ul class="challenges">
-          <li class="rosa"><span class="category">${window.i18n.t('challenges.categories.rosa')}:</span> ${getSfidaText(sfidaRosa)}</li>
-          <li class="tattica"><span class="category">${window.i18n.t('challenges.categories.tattica')}:</span> ${getSfidaText(sfidaTattica)}</li>
-          <li class="obiettivi"><span class="category">${window.i18n.t('challenges.categories.obiettivi')}:</span> ${getSfidaText(sfidaObiettivo)}</li>
+          <li class="rosa ${lockedElements.squadChallenge ? 'locked' : ''}" data-lockable="squadChallenge"
+              data-tooltip="${window.i18n.t('clickable_area.lock_tooltip')}"
+              data-tooltip-unlock="${window.i18n.t('clickable_area.unlock_tooltip')}">
+            <div>
+              <span class="category">${window.i18n.t('challenges.categories.rosa')}:</span> 
+              ${getSfidaText(sfidaRosa)}
+              <span class="lock-btn ${lockedElements.squadChallenge ? 'locked' : ''}" 
+                    title="${lockedElements.squadChallenge ? window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip')}">
+                ${lockedElements.squadChallenge ? '🔒' : '🔓'}
+              </span>
+            </div>
+          </li>
+          <li class="tattica ${lockedElements.tacticsChallenge ? 'locked' : ''}" data-lockable="tacticsChallenge"
+              data-tooltip="${window.i18n.t('clickable_area.lock_tooltip')}"
+              data-tooltip-unlock="${window.i18n.t('clickable_area.unlock_tooltip')}">
+            <div>
+              <span class="category">${window.i18n.t('challenges.categories.tattica')}:</span> 
+              ${getSfidaText(sfidaTattica)}
+              <span class="lock-btn ${lockedElements.tacticsChallenge ? 'locked' : ''}" 
+                    title="${lockedElements.tacticsChallenge ? window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip')}">
+                ${lockedElements.tacticsChallenge ? '🔒' : '🔓'}
+              </span>
+            </div>
+          </li>
+          <li class="obiettivi ${lockedElements.objectivesChallenge ? 'locked' : ''}" data-lockable="objectivesChallenge"
+              data-tooltip="${window.i18n.t('clickable_area.lock_tooltip')}"
+              data-tooltip-unlock="${window.i18n.t('clickable_area.unlock_tooltip')}">
+            <div>
+              <span class="category">${window.i18n.t('challenges.categories.obiettivi')}:</span> 
+              ${getSfidaText(sfidaObiettivo)}
+              <span class="lock-btn ${lockedElements.objectivesChallenge ? 'locked' : ''}" 
+                    title="${lockedElements.objectivesChallenge ? window.i18n.t('unlock_tooltip') : window.i18n.t('lock_tooltip')}">
+                ${lockedElements.objectivesChallenge ? '🔒' : '🔓'}
+              </span>
+            </div>
+          </li>
         </ul>
       </div>
     `;
     
+    // Aggiungi event listener all'intero elemento della squadra
+    const teamElement = document.querySelector('.team-info');
+    const teamLockBtn = document.getElementById('team-lock-btn');
+    
+    teamElement.addEventListener('click', function(e) {
+      // Evita che il click sull'icona attivi due volte l'evento
+      if (e.target === teamLockBtn || teamLockBtn.contains(e.target)) {
+        return;
+      }
+      
+      // Aggiungi effetto visivo
+      teamLockBtn.classList.add('pulse');
+      setTimeout(() => teamLockBtn.classList.remove('pulse'), 300);
+      
+      // Attiva il blocco/sblocco
+      toggleLock('team', squadra);
+    });
+    
+    // Manteniamo anche l'event listener per il pulsante stesso
+    teamLockBtn.addEventListener('click', function(e) {
+      e.stopPropagation(); // Previene che l'evento risalga al contenitore
+      this.classList.add('pulse');
+      setTimeout(() => this.classList.remove('pulse'), 300);
+      toggleLock('team', squadra);
+    });
+    
+    // Aggiungi event listener agli elementi delle sfide
+    document.querySelectorAll('.challenges li').forEach(li => {
+      const btn = li.querySelector('.lock-btn');
+      const type = li.dataset.lockable;
+      const challenge = type === 'squadChallenge' ? sfidaRosa : 
+                        type === 'tacticsChallenge' ? sfidaTattica : sfidaObiettivo;
+      
+      // Aggiungi event listener all'intero elemento li
+      li.addEventListener('click', function(e) {
+        // Evita che il click sull'icona attivi due volte l'evento
+        if (e.target === btn || btn.contains(e.target)) {
+          return;
+        }
+        
+        // Aggiungi effetto visivo
+        btn.classList.add('pulse');
+        setTimeout(() => btn.classList.remove('pulse'), 300);
+        
+        // Attiva il blocco/sblocco
+        toggleLock(type, challenge);
+      });
+      
+      // Manteniamo anche l'event listener per il pulsante stesso
+      if (btn) {
+        btn.addEventListener('click', function(e) {
+          e.stopPropagation(); // Previene che l'evento risalga al contenitore
+          this.classList.add('pulse');
+          setTimeout(() => this.classList.remove('pulse'), 300);
+          toggleLock(type, challenge);
+        });
+      }
+    });
+    
     // Mostra il pulsante di condivisione
     document.getElementById('share-container').style.display = 'flex';
+    
+    // Mostra le istruzioni di blocco
+    document.getElementById('lock-instructions').style.display = 'block';
     
     // Scroll automatico verso l'output
     setTimeout(() => {
@@ -363,6 +571,9 @@ async function generaSfida() {
         outputElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }, 100); // Piccolo ritardo per garantire che l'HTML sia renderizzato
+    
+    // Imposta a false dopo la prima generazione
+    isFirstGeneration = false;
     
   } catch (error) {
     console.error('Errore durante il caricamento dei dati:', error);

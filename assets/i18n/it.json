@@ -21,7 +21,16 @@
   "generate_button": "Genera Sfida",
   "loading": "Generazione sfida in corso...",
   "feedback_button": "Invia Feedback",
-  "share_button": "Condividi",
+  "share_button": "Salva Sfida",
+  "info_section": {
+    "title": "Come funziona",
+    "description": "Benvenuto in FM24 Challenge Creator! Questa webapp ti permette di generare sfide casuali per Football Manager 2024. Ecco come funziona:",
+    "difficulty_title": "Difficoltà Campionato",
+    "difficulty_description": "Seleziona il livello di difficoltà del campionato. Questo determinerà quali squadre potranno essere selezionate per la tua sfida - dalle più blasonate alle più oscure.",
+    "challenge_difficulty_title": "Difficoltà Sfide",
+    "challenge_difficulty_description": "Scegli quanto vuoi rendere impegnative le sfide specifiche che dovrai completare. Da semplici obiettivi a missioni quasi impossibili!",
+    "conclusion": "Una volta scelti questi parametri, premi \"Genera Sfida\" e il sistema ti proporrà una squadra casuale con tre sfide da completare: una per la rosa, una tattica e un obiettivo stagionale. Puoi generare quante sfide vuoi finché non trovi quella perfetta per te!"
+  },
   "challenges": {
     "title": "Le tue sfide:",
     "categories": {
@@ -42,5 +51,12 @@
     "check_paths": "Controlla che i percorsi dei file JSON siano corretti.",
     "not_enough_challenges": "Non ci sono abbastanza sfide per il livello di difficoltà selezionato. Prova a selezionare \"Tutte\"."
   },
-  "language": "Lingua"
+  "language": "Lingua",
+  "lock_instructions": "Clicca sulle icone 🔒/🔓 per bloccare o sbloccare elementi che ti piacciono",
+  "lock_tooltip": "Blocca questo elemento",
+  "unlock_tooltip": "Sblocca questo elemento",
+  "clickable_area": {
+    "lock_tooltip": "Clicca per bloccare/sbloccare",
+    "unlock_tooltip": "Clicca per sbloccare"
+  }
 } 

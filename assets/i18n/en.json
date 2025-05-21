@@ -21,7 +21,16 @@
   "generate_button": "Generate Challenge",
   "loading": "Generating challenge...",
   "feedback_button": "Send Feedback",
-  "share_button": "Share",
+  "share_button": "Save Challenge",
+  "info_section": {
+    "title": "How It Works",
+    "description": "Welcome to FM24 Challenge Creator! This webapp allows you to generate random challenges for Football Manager 2024. Here's how it works:",
+    "difficulty_title": "League Difficulty",
+    "difficulty_description": "Select the difficulty level of the league. This determines which teams can be selected for your challenge - from the most prestigious to the most obscure.",
+    "challenge_difficulty_title": "Challenge Difficulty",
+    "challenge_difficulty_description": "Choose how challenging you want the specific challenges to be. From simple objectives to almost impossible missions!",
+    "conclusion": "Once you've selected these parameters, click \"Generate Challenge\" and the system will propose a random team with three challenges to complete: one for the squad, one tactical, and one seasonal objective. You can generate as many challenges as you want until you find the perfect one for you!"
+  },
   "challenges": {
     "title": "Your challenges:",
     "categories": {
@@ -42,5 +51,12 @@
     "check_paths": "Check that the JSON file paths are correct.",
     "not_enough_challenges": "There aren't enough challenges for the selected difficulty level. Try selecting \"All\"."
   },
-  "language": "Language"
+  "language": "Language",
+  "lock_instructions": "Click the 🔒/🔓 icons to lock or unlock elements you like",
+  "lock_tooltip": "Lock this element",
+  "unlock_tooltip": "Unlock this element",
+  "clickable_area": {
+    "lock_tooltip": "Click to lock/unlock",
+    "unlock_tooltip": "Click to unlock"
+  }
 } 
